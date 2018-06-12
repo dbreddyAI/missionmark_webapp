@@ -434,7 +434,7 @@ def get_stopwords():
     :return: A set of stopwords.
     """
 
-    with open("../stopwords_tokenize.txt", "r") as f:
+    with open("stopwords/stopwords_tokenize.txt", "r") as f:
         custom_stopwords = set(tokenize(f.read().lower()))
 
     return list(ENGLISH_STOP_WORDS.union(custom_stopwords))
@@ -442,10 +442,10 @@ def get_stopwords():
 
 def get_stopphrases():
 
-    with open("../stopwords_phrases.txt", "r") as f:
+    with open("stopwords/stopwords_phrases.txt", "r") as f:
         stop_phrases = set([re.escape(line.lower().strip()) for line in f if len(line) > 3])
 
-    with open("../stopwords_regex.txt", "r") as f:
+    with open("stopwords/stopwords_regex.txt", "r") as f:
         stop_phrases.update([line.lower().strip() for line in f if len(line) > 3])
 
     return re.compile("|".join(stop_phrases))

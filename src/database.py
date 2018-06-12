@@ -6,7 +6,7 @@ import json
 
 _connection = None
 
-def get_connection(credentials_path="../db_creds.json"):
+def get_connection(credentials_path="db_creds.json"):
 
     global _connection
 

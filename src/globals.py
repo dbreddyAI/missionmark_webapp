@@ -7,16 +7,21 @@ from sys import stdout
 from time import time
 
 
+# performance stuff
 DEBUG_LEVEL = 1
-VECTORIZER_MODEL_PICKLING = True
-TOPIC_MODEL_PICKLING = True
-CORPUS_PICKLING = True
-DOC_BUFFER_SIZE = 100000
+DOC_BUFFER_SIZE = 1000
+RANDOM_STATE = 666
+
+# vectorizer options
 MAX_FEATURES = 50000
-MIN_DF = 1
+MIN_DF = 3
 MAX_DF = .5
 N_GRAMS = 1
-N_TOPICS = 33
+
+# nmf options
+N_TOPICS = 42
+MAX_ITER = 1000
+
 
 
 _PROGRESS_BAR_LAST_TIME = 0
