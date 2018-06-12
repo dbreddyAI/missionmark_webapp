@@ -8,6 +8,9 @@ from flask import Flask, request, render_template
 import os
 import json
 from pickle_workaround import pickle_load, pickle_dump
+import numpy as np
+from summarize import summarize_doc_nmf
+from corpus import Corpus
 
 app = Flask(__name__)
 app.secret_key = os.urandom(24)
@@ -25,16 +28,20 @@ W_normalized = W / W.max(axis=0)
 @app.route("/topic.html", methods=["GET"])
 def index():
 
-    topic_i = request.args["topic"] if "topic" in request.args else 0
-    topic_label = topics[topic_i]["label"]
-    topic_threshold = topics[topic_i]["threshold"]
+    topic_i = int(request.args["topic"]) if "topic" in request.args else 0
+    topic_i_str = str(topic_i)
+    topic_label = topics[topic_i_str]["label"]
+    topic_threshold = topics[topic_i_str]["threshold"]
+
     topic_docs = W[:, topic_i]
     topic_docs_normalized = W_normalized[:, topic_i]
 
+    top_10_docs_i = np.argsort(topic_docs)[::-1][:10]
+    top_10_docs = corpus.get_docs(top_10_docs_i)
+    top_10_docs_nmf_summaries = [summarize_doc_nmf(doc, vectorizer, nmf, topic_i, 2) for doc in top_10_docs]
 
 
-    return render_template("index.html", topic_i=topic_i)
-
+    return render_template("topic.html", topic_i=topic_i_str, topic=topics[topic_i_str])
 
 
 

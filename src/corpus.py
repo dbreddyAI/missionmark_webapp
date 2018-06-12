@@ -7,12 +7,13 @@ import globals as g
 import vectorizers
 import numpy as np
 from pickle_workaround import pickle_dump
+import text_processing
 
 
 
 class Corpus():
 
-    def __init__(self, id_column, text_column, table_name, where_clause):
+    def __init__(self, id_column, text_column, table_name, where_clause, strip_html=True):
 
         self._tfidf_corpus = None
         self._n_docs = 0
@@ -22,6 +23,7 @@ class Corpus():
         self._text_column = text_column
         self._table_name = table_name
         self._where_clause = where_clause
+        self._strip_html = strip_html
 
 
     @property
@@ -77,10 +79,11 @@ class Corpus():
             cursor.execute(query)
             for doc_id, doc in cursor:
                 doc_ids.append(doc_id)
+                if self._strip_html:
+                    doc = text_processing.strip_html(doc)
                 yield doc
 
         self._doc_ids = np.array(doc_ids)
-        g.debug(" -> Done", 1)
 
 
     def create_from_transform(self, vectorizer):
@@ -88,6 +91,7 @@ class Corpus():
         self.query_n_docs()
         g.debug("Downloading and vectorizing documents...")
         self._tfidf_corpus = vectorizer.transform(self.query(), n_docs=self._n_docs)
+        g.debug(" -> Done", 1)
 
         return self
 
@@ -98,14 +102,16 @@ class Corpus():
         g.debug("Downloading and vectorizing documents...")
         vectorizer = vectorizers.TfidfVectorizerProgressBar(max_features=g.MAX_FEATURES, min_df=g.MIN_DF, max_df=g.MAX_DF, stop_words=vectorizers.get_stopwords(), tokenizer=vectorizers.tokenize, ngram_range=(1, g.N_GRAMS), strip_accents="ascii", sublinear_tf=True, dtype=np.uint16, progress_bar_clear_when_done=True)
         self._tfidf_corpus = vectorizer.fit_transform(self.query(), n_docs=self._n_docs)
+        g.debug(f" -> Found {len(vectorizer.get_feature_names())} features")
 
         return vectorizer
 
 
-    def get_doc(self, doc_id):
+    def get_doc(self, doc_i):
 
         g.debug(f"Retrieving doc {doc_id}...", 2)
 
+        doc_id = self._doc_ids[doc_i]
         query = f"""
                     SELECT {self._text_column}
                     FROM {self._table_name}
@@ -116,13 +122,16 @@ class Corpus():
         with conn.cursor() as cursor:
             cursor.execute(query)
             doc = cursor.fetchone()[0]
+            if self._strip_html:
+                doc = text_processing.strip_html(doc)
 
         return doc
 
 
-    def get_docs(self, doc_ids):
-        g.debug(f"Retrieving {len(doc_ids)} documents...", 2)
+    def get_docs(self, doc_is):
+        g.debug(f"Retrieving {len(doc_is)} documents...", 2)
 
+        doc_ids = self._doc_ids[doc_is]
         query = f"""
                     SELECT {self._id_column}, {self._text_column}
                     FROM {self._table_name}
@@ -138,12 +147,15 @@ class Corpus():
             docs = []
 
             for id, doc in cursor:
-                docs.append(doc)
                 ids.append(id)
+                if self._strip_html:
+                    doc = text_processing.strip_html(doc)
+                docs.append(doc)
 
         # return the docs in the same order they were requested
         result = np.array([docs[ids.index(doc_id)] for doc_id in doc_ids])
         return result
+
 
 
 def main():
