@@ -143,13 +143,11 @@ class Corpus():
 
 def main():
 
-    corpus = Corpus("opportunity_id", "program_description", "import.govwin_opportunity", "program_description ILIKE(%requirements%)")
+    corpus = Corpus("opportunity_id", "program_description", "import.govwin_opportunity", "program_description ILIKE('%requirements%')")
     vectorizer = corpus.create_new_vectorizer()
 
     pickle_dump(corpus, "data/pickles/corpus.pkl")
     pickle_dump(vectorizer, "data/pickles/vectorizer.pkl")
-
-    print("DONE")
 
 
 if __name__ == "__main__":
