@@ -2,12 +2,39 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <link href="static/style.css" rel="stylesheet" title="Default Style">
     <title>{{ topic["label"] }}</title>
 </head>
 <body>
 
-    <img src="static/wordclouds/{{ topic_i.rjust(3, "0") }}_nmf.png" />
-    <img src="static/wordclouds/{{ topic_i.rjust(3, "0") }}_tfidf.png" />
+    {% if topic_i > 0 %}
+        <a href="topic.html?topic={{ topic_i - 1 }}">Previous</a>
+    {% endif %}
+    {% if topic_i < 42 %}
+        <a href="topic.html?topic={{ topic_i + 1 }}">Next</a>
+    {% endif %}
+
+    <br />
+
+    <img src="static/wordclouds/{{ str(topic_i).rjust(3, "0") }}_nmf.png" />
+    <img src="static/wordclouds/{{ str(topic_i).rjust(3, "0") }}_tfidf.png" />
+
+    <table>
+        <thead>
+            <tr>
+                <th>Document ID</th>
+                <th>Summary</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for summary in summaries %}
+                <tr>
+                    <td>{{ summary[0] }}</td>
+                    <td>{% autoescape false %}{{ summary[1] }}{% endautoescape %}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
 
 </body>
 </html>

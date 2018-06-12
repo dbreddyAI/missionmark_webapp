@@ -14,7 +14,7 @@ from corpus import Corpus
 
 app = Flask(__name__)
 app.secret_key = os.urandom(24)
-# app.add_template_global(zip, "zip")
+app.add_template_global(str, "str")
 
 
 topics = json.load(open("data/json/topics.json"))
@@ -38,10 +38,11 @@ def index():
 
     top_10_docs_i = np.argsort(topic_docs)[::-1][:10]
     top_10_docs = corpus.get_docs(top_10_docs_i)
+    top_10_doc_ids = corpus.doc_ids[top_10_docs_i]
     top_10_docs_nmf_summaries = [summarize_doc_nmf(doc, vectorizer, nmf, topic_i, 2) for doc in top_10_docs]
 
 
-    return render_template("topic.html", topic_i=topic_i_str, topic=topics[topic_i_str])
+    return render_template("topic.html", topic_i=topic_i, topic=topics[topic_i_str], summaries=zip(top_10_doc_ids, top_10_docs_nmf_summaries))
 
 
 

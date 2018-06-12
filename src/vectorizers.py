@@ -459,7 +459,8 @@ def tokenize(text):
     """
     global _stemmer, _stop_phrases
     text = _stop_phrases.sub(" ", text)
-    return [_stemmer.stem(token) for token in re.split(r"[^a-z]+", text) if len(token) > 3]
+    result = [_stemmer.stem(token) for token in re.split(r"[^a-z]+", text) if len(token) > 3]
+    return result
 
 
 _stop_phrases = get_stopphrases()

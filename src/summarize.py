@@ -36,7 +36,7 @@ def summarize_doc(doc, vectorizer, n_sentences=10):
     # best_sentences = [f"{'*' * 120}\n{'*' * 120}\n{'*' * 120}\n{sentences[i]}." for i in best_sentences_i]
     best_sentences = [sentences[i] for i in best_sentences_i]
 
-    return "\n\n".join(best_sentences)
+    return "<br /><br />".join(best_sentences)
 
 
 
@@ -83,4 +83,4 @@ def summarize_doc_nmf(doc, vectorizer, nmf, topic_i, n_sentences=10):
     # best_sentences = [f"{'*' * 120}\n{'*' * 120}\n{'*' * 120}\n{sentences[i]}." for i in best_sentences_i]
     best_sentences = [sentences[i] for i in best_sentences_i]
 
-    return "\n\n".join(best_sentences)
+    return "<br /><br />".join(best_sentences)

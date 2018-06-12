@@ -44,6 +44,8 @@ def cache_wordclouds(corpus, vocabulary, H, W):
         complete += 1
         g.progress_bar(complete, total)
 
+    g.debug(" -> Done", 1)
+
 
 def get_tfidf_topic_weights(corpus_tfidf, W):
 
