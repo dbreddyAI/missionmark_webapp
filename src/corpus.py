@@ -36,6 +36,9 @@ class Corpus():
     def n_docs(self):
         return self._n_docs
 
+    def __getitem__(self, item):
+        return self._tfidf_corpus[item]
+
 
     def query_n_docs(self):
 
@@ -151,5 +154,4 @@ def main():
 
 
 if __name__ == "__main__":
-
     main()

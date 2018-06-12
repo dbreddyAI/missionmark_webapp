@@ -22,6 +22,12 @@ N_GRAMS = 1
 N_TOPICS = 42
 MAX_ITER = 1000
 
+# word cloud options
+BACKGROUND_COLOR = "black"
+MAX_WORDS = 250
+WIDTH = 750
+HEIGHT = 375
+
 
 
 _PROGRESS_BAR_LAST_TIME = 0

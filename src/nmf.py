@@ -35,7 +35,13 @@ def main():
     pickle_dump(nmf, "data/pickles/nmf.pkl")
     pickle_dump(W, "data/pickles/W.pkl")
 
+    # cache the wordclouds
+    from wordclouds import cache_wordclouds
+    vectorizer = pickle_load("data/pickles/vectorizer.pkl")
+    W_normalized = W / W.max(axis=0)
+    cache_wordclouds(corpus, vectorizer.get_feature_names(), nmf.components_, W_normalized)
+
+
 
 if __name__ == "__main__":
-
     main()

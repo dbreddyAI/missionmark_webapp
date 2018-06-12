@@ -3,10 +3,8 @@ from globals import debug
 import json
 
 
-
 _connection = None
-
-def get_connection(credentials_path="db_creds.json"):
+def get_connection(credentials_path="data/json/db_creds.json"):
 
     global _connection
 
@@ -19,5 +17,3 @@ def get_connection(credentials_path="db_creds.json"):
         debug(" -> Connection successful!", 1)
 
     return _connection
-
-
