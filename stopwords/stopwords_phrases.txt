@@ -2914,7 +2914,6 @@ Military Intelligence
 Missing In Action
 Mechanized Infantry Combat Vehicle
 Military Construction
-Machinery Technician
 Multiple Launch Rocket System
 Miles and Miles of Fucking Desert
 Military Operating Area
@@ -3223,7 +3222,6 @@ Air Force Technical Order
 Air Force Visual Aids
 Air Force Virtual Education Center
 Aerospace Ground Equipment
-An AGE Technician
 Active Guard and Reserve
 Aircraft Generation Squadron
 Anti-G Straining Maneuver
@@ -3233,7 +3231,6 @@ Air Launched Cruise Missile
 Air Liaison Officer
 Airman Leadership School
 Automated Military Justice Analysis and Management System
-Munitions Systems Technician AMMO
 Airborne Missile Maintenance Squadron Missile Badge
 Academy of Military Science
 Aircraft Metals Technology
@@ -3246,7 +3243,6 @@ Air Police
 Aerial Port Squadron
 Alcohol Related Incident
 Rescue Squadron
-Air Reserve Technician
 Armed or Alarm Response Team
 Air Refueling Wing
 Airlift Squadron
@@ -3646,7 +3642,6 @@ Space Operations Squadron
 Squadron Officer School
 Special Operations Squadron
 Special Operations Wing
-Special Operations Weather Technician
 Senior Airman
 Solid Rock Cafe
 Security Response Team
@@ -3744,7 +3739,7 @@ Aviation Photographer's Mate
 Aviation Fire Control
 Master Chief Aircraft Maintenanceman
 Aqueous Film Forming Foam
-Afloat Forward Staging BaseAGAerographer's Mate
+Afloat Forward Staging Base
 Aircraft Intermediate Maintenance Department
 Aviation Storekeeper
 All Navy
@@ -3759,28 +3754,23 @@ Aviation Ordnanceman
 Auxilliaryman of the Watch
 Airman Recruit
 Afloat Readiness Reporting System
-Aviation Support Equipment Technician
 Air Search and Attack Unit
 Anti-Surface Warfare
 Auxiliary Seawater system
 Anti-Submarine Warfare Officer
 Annual Training
-Aviation Electronics Technician
 Atlantic Undersea Test and Evaluation Center
 Auxiliaries Officer
-Master Chief Avionics Technician
 Aviation Gasoline
 Assistant Work Center Supervisor
 Aviation Maintenance Administrationman
 Bad Ass Marine
-Beyond Capable Maintenance
 Basic Enlisted Submarine School
 Blue Jacket of the Quarter
 Blue Jacket of the Year
 Boatswain's Mate
 Boatswain's Mate Of the Watch
 Bupers Online
-Boiler Technician
 Bureau of Naval Personnel
 Bureau of Supplies and Accounts
 Bureau of Naval Weapons
@@ -3798,7 +3788,6 @@ Charlie Foxtrot
 Guided Missile Cruiser
 Guided Missile Cruiser, Nuclear Powered
 Chief of Chaplains of the United States Navy
-Chief Engineer
 Chaplain of the United States Marine Corps
 Combat Information Center
 Combat Information Center Officer
@@ -3847,12 +3836,6 @@ Computerized Self Evaluation Checklist
 Combat Systems Maintenance Center
 Combat Systems Officer of the Watch
 Combat Systems Operational Sequencing Systems
-Cryptologic Technician
-Cryptologic Technician Interpretive
-Cryptologic Technician Maintenance
-Cryptologic Technician Networks
-Cryptologic Technician Collection
-Cryptologic Technician Technical
 Carrier Air Wing
 Drug and Alcohol Programs Advisor
 Damage Controlman
@@ -3896,7 +3879,6 @@ Enclosed Operating Space
 Engineering Operational Sequencing Systems
 Engineroom Supervisor
 Enlisted Surface Warfare Specialist
-Electronics Technician
 Engineering Watch Supervisor
 Expeditionary Warfare
 Fireman Apprentice
@@ -3918,23 +3900,18 @@ Fleet Readiness Center
 Fleet Replacement Squadron
 Food Service Attendant
 Food Service Officer
-Fire control technician
-Fire Control Technician Ballistic Missile
 Forget the Navy
 Full-time Navy
 Full-time Support
 Global Command and Control System-Maritime
 Gunner's Mate
 General Quarters
-Gas Turbine Systems Technician - Electrical
-Gas Turbine Systems Technician - Mechanic
 Hospital Apprentice
 Helicopter Aircraft CommanderHEDSUPPACTLANTHeadquarters, Support Activity Atlantic
 Hospital Corpsman
 Head Mother Fucker In Charge
 Hospital Recruit
 Helicopter Squadron, Anti-Submarine Warfare
-Hull Maintenance Technician
 Individual Augmentation Manpower Management
 In Assignment Processing
 Interior Communications Electrician
@@ -3944,7 +3921,6 @@ Intermediate Maintenance Facility
 Individual Material Readiness List
 Irish Pennant - A loose thread of a Naval or Marine uniform.
 In Reference To
-Information System Technician
 Information Technology Submarines
 Judge Advocate General's Corps, U.S. Navy
 Jet Blast Deflector
@@ -3977,7 +3953,6 @@ Main Propulsion Assistant
 Military Patrol Craft
 Material Readiness Database
 Main Seawater System
-Missile Technician
 Master Training Specialist
 Naval Amphibious Base
 Naval Air Facility
@@ -4106,9 +4081,7 @@ Submersible Ship Nuclear
 Senior Sailor of the Quarter
 Senior Sailor of the Year
 Ships Service Turbo Generator
-Sonar Technician Surface
 Standard Tension Replenishment Alongside Method
-Sonar Technician Submarines
 Submarine Squadron
 Submarine Safety Program
 Supply Officer
