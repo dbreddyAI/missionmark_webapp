@@ -3,3 +3,5 @@ data/json/db_creds.json
 data/pickles/
 output/wordclouds/
 static/wordclouds/
+src/__pycache__/
+
