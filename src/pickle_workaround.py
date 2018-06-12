@@ -29,13 +29,13 @@ class BigFile(object):
 
     def write(self, buffer):
         n = len(buffer)
-        g.debug(f" -> Writing {n} total bytes...", 2)
+        g.debug(f" -> Writing {n} total bytes...", 3)
         idx = 0
         while idx < n:
             batch_size = min(n - idx, 1 << 31 - 1)
-            g.debug(f" ---> Writing bytes [{idx}, {idx + batch_size})... ", 2)
+            g.debug(f" ---> Writing bytes [{idx}, {idx + batch_size})... ", 3)
             self.f.write(buffer[idx:idx + batch_size])
-            g.debug(f" ---> Done", 2)
+            g.debug(f" ---> Done", 3)
             idx += batch_size
 
 
@@ -43,7 +43,7 @@ def pickle_dump(obj, file_path):
     g.debug(f"Caching {file_path}...")
     with open(file_path, "wb") as f:
         result = pickle.dump(obj, BigFile(f), protocol=pickle.HIGHEST_PROTOCOL)
-    g.debug(f" -> {file_path} saved!", 1)
+    g.debug(" -> Done", 1)
     return result
 
 
@@ -51,5 +51,5 @@ def pickle_load(file_path):
     g.debug(f"Loading {file_path} from cache...")
     with open(file_path, "rb") as f:
         obj = pickle.load(BigFile(f))
-    g.debug(f" -> {file_path} loaded!", 1)
+    g.debug(" -> Done", 1)
     return obj

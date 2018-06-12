@@ -55,7 +55,7 @@ class Corpus():
             cursor.execute(count_query)
             self._n_docs = cursor.fetchone()[0]
 
-        g.debug(f" ->  Found {self._n_docs} documents", 1)
+        g.debug(f" -> Found {self._n_docs} documents")
         return self.n_docs
 
 
@@ -80,12 +80,13 @@ class Corpus():
                 yield doc
 
         self._doc_ids = np.array(doc_ids)
-        g.debug(f" -> {self._n_docs} documents downloaded and vectorized", 1)
+        g.debug(" -> Done", 1)
 
 
     def create_from_transform(self, vectorizer):
 
         self.query_n_docs()
+        g.debug("Downloading and vectorizing documents...")
         self._tfidf_corpus = vectorizer.transform(self.query(), n_docs=self._n_docs)
 
         return self
@@ -94,6 +95,7 @@ class Corpus():
     def create_new_vectorizer(self):
 
         self.query_n_docs()
+        g.debug("Downloading and vectorizing documents...")
         vectorizer = vectorizers.TfidfVectorizerProgressBar(max_features=g.MAX_FEATURES, min_df=g.MIN_DF, max_df=g.MAX_DF, stop_words=vectorizers.get_stopwords(), tokenizer=vectorizers.tokenize, ngram_range=(1, g.N_GRAMS), strip_accents="ascii", sublinear_tf=True, dtype=np.uint16, progress_bar_clear_when_done=True)
         self._tfidf_corpus = vectorizer.fit_transform(self.query(), n_docs=self._n_docs)
 
