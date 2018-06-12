@@ -1,1 +1,2 @@
-The contractor shall (provide|furnish) all ([a-z ]+, )+[a-z ]+,* and [a-z]+
+\bcontractor shall [a-z]+ all ([a-z ]+, )+[a-z ]+,* and [a-z]+\b
+\bFort [A-Z][a-z]+( [A-Z][a-z]+)*,\b

@@ -3,9 +3,10 @@
 # webapp.py
 # Web application
 
+import os, sys
+sys.path.append(os.getcwd() + "/src")
 
 from flask import Flask, request, render_template
-import os
 import json
 from pickle_workaround import pickle_load, pickle_dump
 import numpy as np

@@ -197,7 +197,7 @@ OFFICE OF SCIENCE COORDINATION AND POLICY
 INTERNATIONAL TRADE ADMINISTRATION
 DEPUTY ASSISTANT SECRETARY FOR VISA SERVICES
 CHIEF HUMAN CAPITAL OFFICER
-COMMAND CONTROL COMMUNICATIONS COMPUTER AND INFORMATION TECHNOLOGY DIRECTORATE
+COMMAND, CONTROL, COMMUNICATIONS, COMPUTER, AND INFORMATION TECHNOLOGY DIRECTORATE
 LOUISVILLE DISTRICT
 OFFICE OF INVESTIGATIONS
 DEPARTMENT OF CONGRESS
@@ -2678,8 +2678,8 @@ Beyond Visual Range
 Base Exchange
 spoken "Bravo Zulu", meaning "congratulations, job well done"
 Command And Control
-Command Control And Communication
-Command Control Communication Computers Intelligence And Recognition
+Command, Control, And Communication
+Command, Control, Communication, Computers, Intelligence, And Recognition
 Common Access Card
 Commander, Air Group
 Civil Affairs Group
