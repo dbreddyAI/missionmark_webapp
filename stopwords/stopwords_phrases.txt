@@ -52,7 +52,6 @@ SECRETARY OF EDUCATION
 LETTERKENNY ARMY DEPOT
 VA SOUTHWEST HEALTH CARE NETWORK
 LOS ANGELES DISTRICT
-FLIGHT PROJECTS DIRECTORATE
 EARTH SCIENCE PROJECTS DIVISION
 BUREAU FOR EUROPE AND EURASIA
 AIR FORCES EUROPE AND AIR FORCES AFRICA
@@ -223,8 +222,6 @@ SECRETARY OF ENERGY
 REGION 3
 ST LOUIS DISTRICT
 BUREAU OF ENGRAVING AND PRINTING
-OFFICE OF THE CENTER DIRECTOR
-FLIGHT PROJECTS DIRECTORATE
 EXPLORATION, OPERATIONS, COMMUNICATIONS AND NAVIGATION SYSTEMS DIVISION
 VA NEW ENGLAND HEALTHCARE SYSTEM
 MUNITIONS DIRECTORATE
@@ -250,7 +247,6 @@ REGION 11
 NATIONAL CAPITAL REGION
 DEPARTMENT OF ENERGY
 ASST SEC FOR ACQUISITION, LOGISTICS AND TECHNOLOGY
-CHIEF FINANCIAL OFFICER
 MANAGING DIRECTOR
 VA STARS AND STRIPES HEALTHCARE NETWORK
 NATIONAL CENTER FOR ENVIRONMENTAL ASSESSMENT
@@ -319,7 +315,6 @@ GLOBAL POSITIONING SYSTEMS DIRECTORATE
 NATIONAL INSTITUTE OF NEUROLOGICAL DISORDERS AND STROKE
 ARMSTRONG FLIGHT RESEARCH CENTER
 VA BOSTON HEALTHCARE SYSTEM
-BUREAU OF DIPLOMATIC SECURITY
 NAVAL UNDERSEA WARFARE CENTER
 AEROFLIGHTDYNAMICS DIRECTORATE
 FLEET LOGISTICS CENTER SAN DIEGO
@@ -344,7 +339,6 @@ ARMY EVALUATION CENTER
 PO PRECISION FIRES ROCKET AND MISSILE SYSTEMS
 MIDDLE EAST DISTRICT
 88TH AIR BASE WING
-REGION 10
 EASTERN FEDERAL LANDS HIGHWAY DIVISION
 ENVIRONMENTAL PROTECTION AGENCY
 JPEO FOR CHEMICAL AND BIOLOGICAL DEFENSE
@@ -414,8 +408,6 @@ ARMY PACIFIC
 Air Forces Central
 REGION 4
 Fort Bragg
-Air Force Materiel Command
-Air Force Life Cycle Management Center
 Buckley Air Force Base
 SCIENCE & ENERGY ENVIRONMENTAL MANAGEMENT OAK RIDGE OPERATIONS
 OFFICE OF INFORMATION AND TECHNOLOGY
@@ -436,7 +428,6 @@ NATIONAL RECONNAISSANCE OFFICE
 JOINT INTERAGENCY TASK FORCE SOUTH
 OFFICE OF ACQUISITIONS MANAGEMENT
 OKLAHOMA CITY AIR LOGISTICS COMPLEX
-ASST SEC OF THE NAVY
 NATIONAL CEMETERY SYSTEM
 BUREAU OF ADMINISTRATION
 SCIENCE AND TECHNOLOGY BRANCH OPERATIONAL TECHNOLOGY DIVISION
@@ -444,7 +435,6 @@ ADVANCED RESEARCH PROJECTS AGENCY
 INFORMATION TECHNOLOGY CENTER
 JUSTICE PROGRAMS
 12TH AIR FORCE
-BUREAU OF DIPLOMATIC SECURITY
 480TH ISR WING
 ACQUISITION, LOGISTICS, AND CONSTRUCTION
 HEADQUARTERS BATTALION
@@ -461,7 +451,6 @@ IMMIGRATION AND CUSTOMS ENFORCEMENT
 501ST COMBAT SUPPORT WING
 72ND AIR BASE WING
 NATIONAL PARK SERVICE
-DIRECTOR OF AERONAUTICS
 BUREAU FOR LATIN AMERICA AND THE CARIBBEAN PERU FIELD OFFICE
 NATIONAL WEATHER SERVICE
 OFFICE OF DETENTION AND REMOVAL OPERATIONS
@@ -493,7 +482,6 @@ ENGINEERING RESEARCH AND DEVELOPMENT CENTER
 VETERANS BENEFIT ADMINISTRATION
 ARMY ACQUISITION SUPPORT CENTER
 PM GLOBAL COMBAT SUPPORT SYSTEM
-REGION 2
 NEW YORK
 NATIONAL TRANSPORTATION SAFETY BOARD
 UNDER SECRETARY OF ENERGY ENVIRONMENTAL MANAGEMENT OAK RIDGE OPERATIONS
@@ -533,7 +521,6 @@ OFFICE OF ASSISTANT SECRETARY FOR ADMINISTRATION AND MANAGEMENT
 AIR FORCE RECRUITING SERVICE
 OFFICE OF POLICY AND PROGRAM ANALYSIS
 AIR FORCE CIVIL ENGINEER CENTER
-REGION 8
 ROCKY MOUNTAIN
 502D AIR BASE WING
 CUSTOMS AND BORDER PROTECTION
@@ -542,7 +529,6 @@ PROPULSION DIRECTORATE
 412TH TEST WING
 DEFENSE HEALTH AGENCY
 AIR FORCE TEST CENTER
-SUBORBITAL AND SPECIAL ORBITAL PROJECTS DIRECTORATE WALLOPS FLIGHT FACILITY
 AIRCRAFT OFFICE
 DLA EUROPE & AFRICA
 AIR EDUCATION AND TRAINING COMMAND
@@ -553,7 +539,6 @@ OFFICE OF CAUCASUS AFFAIRS AND REGIONAL CONFLICTS
 SAVANNAH DISTRICT
 OFFICE OF ACQUISITION AND GRANTS MANAGEMENT
 FARM SERVICE AGENCY
-MANAGEMENT OPERATIONS DIRECTORATE
 INFORMATION AND LOGISTICS MANAGEMENT DIVISION
 INFORMATION TECHNOLOGY BRANCH
 US TRADE AND DEVELOPMENT AGENCY
@@ -580,7 +565,6 @@ FOREST SERVICE
 REGION 5
 JOINT IMPROVISED THREAT DEFEAT AGENCY
 OFFICE OF COMMUNICATIONS AND KNOWLEDGE TRANSFER
-OFFICE OF THE CENTER DIRECTOR
 ADMINISTRATIVE OFFICE OF THE US COURTS
 CHIEF INFORMATION OFFICER ENTERPRISE PORTFOLIO MANAGEMENT DIVISION
 CHIEF OF CHAPLAINS
@@ -609,7 +593,6 @@ AGRICULTURAL MARKETING SERVICE
 BUREAU FOR AFRICA MALAWI FIELD OFFICE
 SECURITIES AND EXCHANGE COMMISSION
 BUREAU OF INTERNATIONAL SECURITY AND NONPROLIFERATION
-DEPUTY CHIEF OF STAFF G
 VA MID SOUTH HEALTHCARE NETWORK
 FLEET LOGISTICS CENTER PUGET SOUND
 BUSINESS AND ENTERPRISE SYSTEMS DIRECTORATE
@@ -625,7 +608,6 @@ FLEET LOGISTICS CENTER PEARL HARBOR
 PATENT AND TRADEMARK OFFICE
 NATIONAL LIBRARY OF MEDICINE
 VA SOUTHEAST NETWORK
-BUREAU FOR MANAGEMENT
 DEMOCRACY, CONFLICT RESOLUTION, AND HUMANITARIAN ASSISTANCE DIVISION (
 SPAWAR SYSTEMS CENTER CHARLESTON FIELD ACTIVITY
 CENTER FOR ARMY ANALYSIS
@@ -640,7 +622,6 @@ NATIONAL HEART, LUNG AND BLOOD INSTITUTE
 PM CLOSE COMBAT SYSTEMS
 OFFICE OF ADMINISTRATION
 DIRECTOR OF CENTER OPERATIONS
-BUREAU OF DIPLOMATIC SECURITY
 11TH AIR FORCE
 FINANCE DEBT MANAGEMENT CENTER
 US PACIFIC COMMAND
@@ -672,11 +653,9 @@ AIR FORCE INSTALLATION AND MISSION SUPPORT CENTER AIR FORCE FINANCIAL SERVICES C
 RESOURCE ACCESS AND PARTNERSHIPS
 ARMY FORCES COMMAND
 11TH WING
-PM GLOBAL COMBAT SUPPORT SYSTEM
 PM ARMY ENTERPRISE SYSTEMS INTEGRATION PROGRAM
 RICHLAND OPERATIONS OFFICE
 NATIONAL SECURITY DIVISION
-ENGINEERING DIRECTORATE
 FEDERAL OCCUPATIONAL HEALTH SERVICE DIVISION OF ENVIRONMENTAL SERVICES
 NAVAL SEA SYSTEMS COMMAND
 FEDERAL BUREAU OF INVESTIGATION
@@ -690,7 +669,6 @@ PM TRAINING SYSTEMS
 DEPUTY CHIEF OF STAFF FOR INTELLIGENCE
 PM MANEUVER AMMUNITION SYSTEMS
 388TH FIGHTER WING
-FLIGHT PROJECTS DIRECTORATE
 RAPID SPACECRAFT DEVELOPMENT OFFICE
 CHICAGO OPERATIONS OFFICE
 RANGE AND NETWORK DIVISION
@@ -698,9 +676,7 @@ MISSION AND INSTALLATION CONTRACTING COMMAND
 910TH AIRLIFT WING
 PEO SIMULATION, TRAINING AND INSTRUMENTATION
 INTERNATIONAL BOUNDARY AND WATER COMMISSION
-REGION 9
 SAN FRANCISCO
-SUBORBITAL AND SPECIAL ORBITAL PROJECTS DIRECTORATE WALLOPS FLIGHT FACILITY
 BALLOON PROGRAM OFFICE
 REMOTE SENSING SYSTEMS DIRECTORATE
 LOGISTICS, ENGINEERING AND FORCE PROTECTION
@@ -724,7 +700,6 @@ COURT SERVICES AND OFFENDER SUPERVISION AGENCY FOR THE DISTRICT OF COLUMBIA
 FEDERAL RESERVE SYSTEM
 BOARD OF GOVERNORS
 AIR FORCE INSTITUTE OF TECHNOLOGY
-APPLIED ENGINEERING AND TECHNOLOGY DIRECTORATE
 MECHANICAL SYSTEMS DIVISION
 HOUSING AND URBAN DEVELOPMENT
 VA HEALTHCARE NETWORK UPSTATE NEW YORK
@@ -750,12 +725,10 @@ AEROSPACE SYSTEMS DIRECTORATE
 SOUTHERN REGIONAL MEDICAL COMMAND
 AGENCY FOR INTERNATIONAL DEVELOPMENT
 NAVY INSTALLATIONS COMMAND
-REGION 6
 PM FIELD OPERATIONS AND SUPPORT
 ATMOSPHERIC PROGRAMS
 81ST TRAINING WING
 BUREAU FOR AFRICA
-DIRECTOR OF EXPLORATION TECHNOLOGY
 WASHINGTON HEADQUARTERS SERVICE
 DEFENSE INFORMATION TECHNOLOGY CONTRACTING ORGANIZATION
 ENGLISH LANGUAGE ACQUISITION
@@ -807,7 +780,6 @@ DEVELOPMENT & BUSINESS CENTER INFRASTRUCTURE DEVELOPMENT DIRECTORATE
 OFFICE OF NATURAL RESOURCES REVENUE
 DUGWAY PROVING GROUND
 ASSISTANT SECRETARY OF DEFENSE FOR HEALTH AFFAIRS
-DIRECTOR OF CENTER OPERATIONS
 KENNEDY SPACE CENTER
 CHIEF PROCUREMENT OFFICER
 PM LOGISTICS INFORMATION SYSTEMS
@@ -857,13 +829,11 @@ NATIONAL CENTER FOR COMPUTATIONAL TOXICOLOGY
 OFFICE OF GENERAL SUPPLIES AND SERVICES
 OFFICE OF PROGRAM DEVELOPMENT, COORDINATION AND SUPPORT
 GENERAL SERVICES ADMINISTRATION
-REGION 1
 BUREAU OF NEAR EASTERN AFFAIRS
 SOFTWARE ENGINEERING CENTER
 GLENN RESEARCH CENTER
 VETERANS BENEFITS ADMINISTRATION
 MARINE CORPS COMBAT DEVELOPMENT COMMAND
-INFORMATION TECHNOLOGY AND COMMUNICATIONS DIRECTORATE
 SOUTH CENTRAL VA HEALTH CARE NETWORK
 ACQUISITION DIRECTORATE
 7TH BOMB WING
@@ -876,8 +846,6 @@ LAUNCH ENTERPRISE DIRECTORATE
 FEDERAL RAILROAD ADMINISTRATION
 NATIONAL GEOSPATIAL
 INTELLIGENCE AGENCY
-DEPARTMENT OF DITCO
-ENGINEERING DIRECTORATE
 BUREAU OF HUMAN RESOURCES
 NATIONAL INSTITUTE ON ALCOHOL ABUSE AND ALCOHOLISM
 BUREAU OF INFORMATION RESOURCE MANAGEMENT
@@ -897,13 +865,11 @@ NUCLEAR COMMAND, CONTROL AND COMMUNICATIONS INTEGRATION DIRECTORATE
 BUREAU OF CLINICIAN RECRUITMENT AND SERVICE
 PROTECTION AND NATIONAL PREPAREDNESS
 ARMY GEOSPATIAL CENTER
-DEPUTY CHIEF OF STAFF G
 33D FIGHTER WING
 BUREAU OF MEDICINE AND SURGERY
 RETIREMENT AND DISABILITY POLICY
 BUREAU OF OVERSEAS BUILDING OPERATIONS
 PEO C4I PMW 770 SUBMARINE INTEGRATION
-DEPUTY CHIEF OF STAFF G
 ENGINEERING AND LOGISTICS DIRECTORATE
 ACQUISITION AND BUSINESS
 448TH SUPPLY CHAIN MANAGEMENT WING
@@ -917,7 +883,6 @@ DEFENSE ADVANCED RESEARCH PROJECTS AGENCY
 BUREAU OF OCEAN ENERGY MANAGEMENT
 13TH AIR FORCE
 WARNER ROBINS AIR LOGISTICS COMPLEX
-ASST SEC OF THE NAVY
 18TH AIR FORCE 618TH AIR OPERATIONS CENTER
 ASST SEC FOR FINANCIAL MANAGEMENT AND COMPTROLLER
 AIR 4.0 RESEARCH AND ENGINEERING
@@ -940,7 +905,6 @@ AIR FORCE SECURITY ASSISTANCE TRAINING SQUADRON
 AIR 2.0 CONTRACTS
 NEW ENGLAND DISTRICT
 INVESTMENT MANAGEMENT DIVISION
-REGION 3
 SCIENCE AND TECHNOLOGY BRANCH FBI LABORATORY
 NAVFAC PACIFIC
 NAVFAC NORTHWEST
@@ -953,7 +917,6 @@ PEO AVIATION
 PEO MISSILES AND SPACE
 NATIONAL INSTITUTE OF ENVIRONMENTAL HEALTH SCIENCES
 DEPUTY CHIEF OF STAFF FOR OPERATIONS, PLANS, AND TRAINING
-BUREAU OF DIPLOMATIC SECURITY
 NAVFAC SOUTHEAST
 COMMUNICATIONS ELECTRONICS COMMAND
 SECRETARY OF COMMERCE
@@ -968,7 +931,6 @@ NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES
 MANAGEMENT AND PERFORMANCE
 OFFICE OF FAMILY ASSISTANCE
 NASA SHARED SERVICES CENTER
-FLIGHT PROJECTS DIRECTORATE
 ASTROPHYSICS PROJECTS DIVISION OFFICE
 9TH AIR FORCE 633D AIR BASE WING
 WALLA WALLA DISTRICT
@@ -985,8 +947,6 @@ VHA MEDICAL CENTERS
 REAL ESTATE ASSESSMENT CENTER
 OFFICE OF SPECIAL EDUCATION AND REHABILITATIVE SERVICES
 DISASTER OPERATIONS DIRECTORATE
-BUREAU OF DIPLOMATIC SECURITY
-SPAWAR SYSTEMS CENTER ATLANTIC
 OFFICE OF CONSULAR SYSTEMS AND TECHNOLOGY
 US ARMY JAPAN
 NATIONAL INSTITUTE ON DRUG ABUSE
@@ -1012,7 +972,6 @@ FOREIGN SERVICE INSTITUTE
 ALBUQUERQUE DISTRICT
 20TH AIR FORCE
 BUREAU OF RECLAMATION
-DIRECTOR OF AERONAUTICS
 AIR AND RADIATION
 SAFETY AND MISSION ASSURANCE DIRECTORATE
 PM DOD BIOMETRICS
@@ -1025,9 +984,7 @@ AIRCRAFT DIVISION
 FISH AND WILDLIFE SERVICE
 VA CAPITOL HEALTH CARE NETWORK
 18TH AIR FORCE 19TH AIRLIFT WING
-REGION 7
 KANSAS CITY
-BUREAU FOR MANAGEMENT
 SOLID WASTE AND EMERGENCY RESPONSE
 505TH COMMAND AND CONTROL WING
 FOOD AND NUTRITION SERVICE
@@ -1047,7 +1004,6 @@ AIR FORCE SAFETY CENTER
 VA MID
 ATLANTIC HEALTH CARE NETWORK
 INSTITUTIONS AND MANAGEMENT OFFICE
-SUBORBITAL AND SPECIAL ORBITAL PROJECTS DIRECTORATE WALLOPS FLIGHT FACILITY
 OFFICE OF THE SOLICITOR
 19TH AIR FORCE
 MANAGEMENT DIRECTORATE
@@ -1056,7 +1012,6 @@ CORPORATE MANAGEMENT ADMINISTRATION
 US ARMY ENGINEERING AND SUPPORT CENTER HUNTSVILLE
 OFFICE OF ADMINISTRATIVE SERVICES
 DEPARTMENT OF AGRICULTURE
-SCIENCE AND EXPLORATION DIRECTORATE
 INSTALLATIONS AND LOGISTICS DEPARTMENT
 JACKSONVILLE DISTRICT
 COMMUNICATION ELECTRONICS RESEARCH, DEVELOPMENT AND ENGINEERING CENTER
@@ -1072,7 +1027,6 @@ BAY PINES VA MEDICAL CENTER
 OFFICE OF NETWORK SERVICES PROGRAMS
 BUREAU FOR LATIN AMERICA AND THE CARIBBEAN GUATEMALA FIELD OFFICE
 WILMINGTON DISTRICT
-DIRECTOR OF EXPLORATION TECHNOLOGY
 99TH AIR BASE WING
 OFFICE OF FINANCIAL MANAGEMENT
 ATTORNEY GENERAL
@@ -1110,7 +1064,6 @@ NAVAL EDUCATION AND TRAINING COMMAND
 US MILITARY ACADEMY
 DIRECTED ENERGY DIRECTORATE
 GREAT LAKES HEALTH CARE SYSTEM
-APPLIED ENGINEERING AND TECHNOLOGY DIRECTORATE
 MISSION ENGINEERING AND SYSTEMS ANALYSIS DIVISION
 OFFICE OF INFORMATION RESOURCE MANAGEMENT
 US MARSHALS SERVICE
@@ -1133,7 +1086,6 @@ NAVAL OPERATIONAL LOGISTICS SUPPORT CENTER
 SAVANNAH RIVER SITE
 57TH WING
 OFFICE OF WORKERS' COMPENSATION PROGRAM
-ENGINEERING DIRECTORATE
 AIR FORCE SECURITY ASSISTANCE AND COOPERATION DIRECTORATE
 INFORMATION TECHNOLOGY
 307TH BOMB WING
@@ -1143,14 +1095,11 @@ SACRAMENTO DISTRICT
 Sergeant at Arms of the House of Representatives
 Sergeant at Arms of the Senate
 Joint Congressional Committee on Inaugural Ceremonies
-Architect of the Capitol
 Capitol Visitor Center
 Botanic Garden
 Congressional Budget Office
-Government Accountability Office
 Government Publishing Office
 USGPO Police
-Library of Congress
 Global Legal Information Network
 Library of Congress Police
 Congressional Research Service
@@ -1182,12 +1131,10 @@ President's Management Advisory Board
 Executive Residence
 White House Commission on Presidential Scholars
 National Security Council
-Office of Administration
 Office of International Affairs
 President's Council on Fitness, Sports and Nutrition
 Office of Intelligence
 Office of Government Ethics
-Office of Compliance
 Office of Native American Affairs
 Office of Judicial Affairs
 Office of Statistics
@@ -1255,7 +1202,6 @@ Secretary of Agriculture
 Deputy Secretary of Agriculture
 National Agricultural University
 Bill Emerson Humanitarian Trust
-Office of International Affairs
 Office of Agricultural Intelligence
 Team Nutrition
 USDA Office of Emergency Management
@@ -1271,49 +1217,35 @@ National Natural Resources Conservation Foundation
 National Agricultural Research, Extension, Education, and Economics Advisory Board
 Agriculture Network Information Center
 Farm and Foreign Agricultural Services
-Farm Service Agency
 Noninsured Assistance Program
 Commodity Credit Corporation
 Risk Management Agency
 Federal Crop Insurance Corporation
-Foreign Agricultural Service
-Rural Development
 National Rural Development Partnership
-National Rural Development Council
 Rural Business-Cooperative Service
 Rural Utilities Service
 Rural Housing Service
 Food, Nutrition, and Consumer Services
-Food and Nutrition Service
 National School Lunch Program
 Local School Food Authority
 Child and Adult Care Food Program
 Center for Nutrition Policy and Promotion
 Food Safety
-Food Safety and Inspection Service
 Natural Resources and Environment
-Natural Resources Conservation Service
-Forest Service
 Office of Law Enforcement and Investigations
 Marketing and Regulatory Programs
-Animal and Plant Health Inspection Service
 National Veterinary Services Laboratory
-Agricultural Marketing Service
 Grain Inspection, Packers and Stockyards Administration
 Research, Education, and Economics
-Agricultural Research Service
 National Institute of Food and Agriculture
 Economic Research Service
 National Agricultural Statistics Service
 National Agricultural Library
 Management and Administration
 Office of the Chief Information Security Officer
-Office of the Chief Financial Officer
 National Finance Center
 Office of the Chief Technology Officer
 Office of the Chief Operating Officer
-Office of the General Counsel
-Office of the Chief Information Officer
 Office of the Chief Human Resources Officer
 Office of the Chief Economist
 World Agricultural Outlook Board
@@ -1322,28 +1254,13 @@ Legislative Branch
 Judicial Branch
 Specialty Courts
 Executive Office of the President
-Department of Agriculture
-Department of Commerce
-Secretary of Commerce
 Office of Congressional and Intergovernmental Affairs
-Office of Public Affairs
-Office of the Chief Financial Officer
-Office of Management
 Office of the Chief Human Capital Officer
 Office of the Chief Procurement Officer
 Office of Civil Rights
-Office of the Chief Human Resources Officer
-Office of Administration
-Office of the Chief Operating Officer
-Office of the General Counsel
-Office of the Chief Technology Officer
-Office of the Chief Information Officer
-Office of the Chief Information Security Officer
 National Commerce University
 National Commerce Library
-Office of the Inspector General
 Department of Commerce Police
-Office of Security
 Office of Emergency Management
 Bureau of Industry and Security
 Export Administration
@@ -1352,56 +1269,31 @@ Office of Export
 Office of Import
 Import Enforcement
 Import Administration
-Office of International Affairs
-Office of Information and Regulatory Affairs
 Regulatory Information Service Center
 Office of Commerce Statistics
 Office of Economics
 Office of Commerce Intelligence
 Economic Development Administration
-Economics and Statistics Administration
 Bureau of Economic Analysis
 Census Bureau
-International Trade Administration
 Commercial Service
 Invest in America
 Industry and Analysis
 National Travel and Tourism Office
-Enforcement and Compliance
 Minority Business Development Agency
-National Oceanic and Atmospheric Administration
 Alliance for Coastal Technologies
 NOAA Commissioned Officer Corps
 National Environmental Satellite, Data, and Information Service
-National Marine Fisheries Service
 Fisheries Office of Law Enforcement
 National Oceanic Service
-National Weather Service
-National Telecommunications and Information Administration
 Institute for Telecommunication Sciences
 First Responder Network Authority
-Patent and Trademark Office
 Trademark Official Gazette
-National Institute of Standards and Technology
 Office of Technology Policy
 National Software Reference Library
 National Technical Information Service
 Secretary of Defense
 Deputy Secretary of Defense
-Office of Congressional and Intergovernmental Affairs
-Office of Public Affairs
-Management and Administration
-Office of the Chief Procurement Officer
-Office of the Chief Information Officer
-Office of the General Counsel
-Office of the Chief Human Resources Officer
-Office of the Chief Procurement Officer
-Office of Civil Rights
-Office of the Chief Information Security Officer
-Office of the Chief Human Capital Officer
-Office of the Chief Technology Officer
-Office of the Chief Operating Officer
-Office of the Chief Financial Officer
 Unified Combatant Commands
 Africa Command
 Central Command
@@ -1411,7 +1303,6 @@ European Command
 Pacific Command
 Forces Korea
 Southern Command
-Special Operations Command
 Strategic Command
 Cyber Command
 Transportation Command
@@ -1419,11 +1310,9 @@ National Defense Library
 National Intelligence University
 National War College
 Joint Forces Command
-US Fleet Forces Command
 Joint Forces Staff College
 Federal Voting Assistance Program
 Joint Military Intelligence College
-Joint Program Executive Office for Chemical and Biological Defense
 Office of Servicemember Affairs
 Industrial College of the Armed Forces
 Domestic Security Alliance Council
@@ -1436,12 +1325,10 @@ Reserve Forces Policy Board
 Naval Research Advisory Committee
 Information Resource Management College
 National Defence University
-Defense Acquisition University
 Armed Forces Radiobiology Research Institute
 Defense Technology Security Administration
 DOD Test Resource Management Center
 Defense Legal Services Agency
-Office of International Affairs
 Dwight D. Eisenhower School for National Security and Resource Strategy
 Office of Defense Statistics
 Administrative Review Board
@@ -1456,10 +1343,6 @@ National Codification Bureau
 Military Operations Research Society
 DOD Office of the Inspector General
 Department of the Army
-Office of International Affairs
-Office of Statistics
-Office of Security
-Army Corps of Engineers
 Department of the Army Civilian Police
 Department of the Army Civilian Security Guards
 US Army Reserve
@@ -1472,25 +1355,15 @@ US Naval Academy
 US Naval Academy Police
 Naval Criminal Investigative Service
 Navy Inspector General
-Office of Statistics
-Office of International Affairs
 US Navy Library
 US Navy Emergency Management
 Underwater Archaeology Branch, Naval History & Heritage Command
 Naval Reserve
 Department of the Navy Police
-Marine Corps
 Marine Corps Intelligence
-Office of Statistics
-Office of International Affairs
-Office of Security
 USMC Library
 US Marine Corps Emergency Management
 Department of the Air Force
-Air Force
-Office of Security
-Office of Statistics
-Office of International Affairs
 USAF Police
 USAF Library
 US Air Force Emergency Management
@@ -1500,61 +1373,24 @@ Air Force Reserve
 US Air Force Reserve Command
 Civil Air Patrol
 CAP Police
-Office of Security
-Office of Emergency Management
-Office of Intelligence
 CAP Library
-Office of International Affairs
-Office of Statistics
 Joint Chiefs of Staff
-Office of Security
-Office of Emergency Management
-Office of International Affairs
-Office of Statistics
 JCoS Police
 JCoS Library
 JCoS Intelligence
-National Guard Bureau
 NG Bureau
-Office of Security
-Office of International Affairs
-Office of Emergency Management
-Office of Statistics
 National Guard Medicine
 National Guard Intelligence
 Air National Guard
-Office of Statistics
-Office of International Affairs
-Office of Emergency Management
-Office of Security
 Army National Guard
-Office of Statistics
-Office of Security
-Office of Emergency Management
-Office of International Affairs
 State National Guards
-Cyber Command
-Defense Advanced Research Projects Agency
-Defense Commissary Agency
 Defense Contract Audit Agency
-Defense Contract Management Agency
-Defense Finance and Accounting Service
 Defense Finance and Accounting Service Out-of-Service Debt Management Center
-Armed Forces Retirement Home
-Defense Information Systems Agency
-Defense Intelligence Agency
 Defense Clandestine Service
-Defense Logistics Agency
 DLA Police
-Defense Security Cooperation Agency
-Defense Security Service
-Defense Technical Information Center
-Defense Threat Reduction Agency
-Missile Defense Agency
 National Security Agency
 Central Security Service
 NSA Police
-National Reconnaissance Office
 National Geospatial-Intelligence Agency
 Pentagon Force Protection Agency
 Defense Media Activity
@@ -1565,26 +1401,18 @@ US Defense Emergency Management Agency
 US Defense Security Office
 US Department of Defense Police
 Department of Defense Dependents Schools
-Defense Human Resources Activity
 Office of Economic Adjustment
-Defense Health Agency
 Washington Headquarters Services
 Military Academy at West Point
-Department of Education
-Office of the Secretary
 National Library of Education
 Office of Communications and Outreach
-Office of Security
 Office of Health
 Office of Policy
 Office of Education Policy
 Office of Administrative Law
-Office of Emergency Management
 DOE Police
 International Affairs Office
-Office of the Chief Operating Officer
 National Education University
-Office of the General Counsel
 DOE Office of Inspector General
 DOE Inspector General
 Office of Legislation and Congressional Affairs
@@ -1592,31 +1420,19 @@ Office for Civil Rights
 Office of Educational Technology
 Office of Education Intelligence
 Office of Education Statistics
-Institute of Education Sciences
 National Center for Education Statistics
 National Assessment of Educational Progress
 Education Resources Information Center
 Office of Innovation and Improvement
-Office of the Chief Financial Officer
-Office of Management
-Office of the Chief Information Officer
 Office of Planning, Evaluation and Policy Development
 Office of Budget Service
-Office of the Chief Procurement Officer
-Office of the Chief Human Resources Officer
-Office of the Chief Information Officer
-Office of the Chief Technology Officer
-Office of the Chief Information Security Officer
-Office of Administration
 Office of Risk Management Service
 Office of the Under Secretary
 Office of Postsecondary Education
-Office of Vocational and Adult Education
 Office of Federal Student Aid
 President's Advisory Board on Tribal Colleges and Universities
 President's Advisory Board on Historically Black Colleges and Universities
 Office of the Deputy Secretary
-Office of Elementary and Secondary Education
 Office of Migrant Education
 Office of Safe and Healthy Students
 Student Achievement and School Accountability Programs
@@ -1625,11 +1441,8 @@ White House Initiative on Educational Excellence for Hispanics
 White House Initiative on American Indian and Alaska Native Education
 White House Initiative on Educational Excellence for African Americans
 Office of English Language Acquisition, Language Enhancement and Academic Achievement for Limited English Proficient Students
-Office of Special Education and Rehabilitative Services
 National Institute on Disability and Rehabilitation Research
-Office of Special Education Programs
 Rehabilitation Services Administration
-Office of Innovation and Improvement
 Advisory Councils and Committees
 National Assessment Governing Board
 National Advisory Council on Indian Education
@@ -1638,17 +1451,11 @@ Advisory Commission on Accessible Instructional Materials in Postsecondary Educa
 National Board of the Fund for the Improvement of Postsecondary Education
 Education Facilities Clearinghouse
 National Resource Center
-Department of Energy
-Secretary of Energy
 Deputy Secretary of Energy:
 Associate Deputy Secretary of Energy
 Under Secretary of Energy
 National Energy University
-Federal Energy Regulatory Commission
 US National Petroleum Council
-Office of Security
-Office of Emergency Management
-DOE Police
 Congressional and Intergovernmental Affairs
 Office of Energy Statistics
 National Energy Library
@@ -1661,30 +1468,21 @@ Assistant Secretary for Nuclear Energy
 Assistant Secretary for Electricity Delivery and Energy Reliability
 Indian Energy Policy and Programs
 Under Secretary for Nuclear Security
-National Nuclear Security Administration
 Office of Secure Transportation
 Under Secretary for Management and Performance
 National Laboratory Operations Board
 Associate Under Secretary for Environment, Health, Safety and Security
-Chief Human Capital Officer
 Chief Human Resources Officer
-Chief Information Officer
 Chief Technology Officer
-Chief Procurement Officer
 Chief Information Security Officer
-Office of Civil Rights
 Economic Impact and Diversity
 Hearings and Appeals
 Assistant Secretary for Environmental Management
 Legacy Management
-Energy Information Administration
 Bonneville Power Administration
 Southeastern Power Administration
 Southwestern Power Administration
-Western Area Power Administration
 Assistant Secretary for Congressional and Intergovernmental Affairs
-General Counsel
-Chief Financial Officer
 Enterprise Assessments
 Energy Policy and System Analysis
 Office of Energy Policy
@@ -1693,26 +1491,11 @@ Loan Programs Office
 Public Affairs
 Small and Disadvantaged Business Utilization
 National Laboratories & Technology Centers
-Oak Ridge National Laboratory
 Department of Health and Human Services
-Secretary of Health and Human Services
 Deputy Secretary of Health and Human Services
-Office of Emergency Management
-Office of Security
 DHHS Police
-Management and Administration
 Offices of and of the
-Chief Information Officer
-Chief Information Security Officer
-Chief Technology Officer
-Chief Procurement Officer
-Chief Financial Officer
 Civil Rights
-Congressional and Intergovernmental Affairs
-Public Affairs
-General Counsel
-Chief Human Capital Officer
-Chief Human Resources Officer
 Chief Operating Officer
 National Health and Human Services University
 Emergency Medical Services for Children
@@ -1720,9 +1503,7 @@ National Health and Human Services Library
 DHHS Office of the Inspector General
 Office of Health and Human Services Intelligence
 Office of Health and Human Services Statistics
-Office of International Affairs
 Administration on Aging
-Administration for Children and Families
 Administration for Native Americans
 Administration on Developmental Disabilities
 Office of Child Care
@@ -1732,11 +1513,7 @@ National Center on Child Abuse and Neglect
 Family and Youth Services Bureau
 Office of Head Start
 Office of Community Services
-Office of Family Assistance
-Office of Refugee Resettlement
 President's Committee for People with Intellectual Disabilities
-Agency for Healthcare Research and Quality
-Centers for Disease Control and Prevention
 CDC Washington Office
 Center for Global Health
 National Institute for Occupational Safety and Health
@@ -1748,7 +1525,6 @@ National Center for Emerging and Zoonotic Infectious Diseases
 Division of High-Consequence Pathogens and Pathology
 Viral Special Pathogens Branch
 National Center for HIV/AIDS, Viral Hepatitis, STD, and TB Prevention
-National Center for Immunization and Respiratory Diseases
 Office of Minority Health and Health Equity
 Office of Noncommunicable Diseases, Injury and Environmental Health
 National Center for Chronic Disease Prevention and Health Promotion
@@ -1766,126 +1542,78 @@ Office of the Associate Director for Communication
 Office of the Associate Director for Policy
 Office of the Associate Director for Science
 Office of the Chief of Staff
-Office of the Chief Operating Officer
-National Institute for Occupational Safety and Health
 Epidemic Intelligence Service
-National Center for Health Statistics
-Centers for Medicare and Medicaid Services
-Food and Drug Administration
 National Center for Food Safety and Applied Nutrition
 Office of Criminal Investigations
-Health Resources and Services Administration
 Patient Affordable Healthcare Act Program
 Independent Payment Advisory Board
-Indian Health Service
-National Institutes of Health
 National Institutes of Health Police
-National Cancer Institute
 National Eye Institute
 National Heart, Lung, and Blood Institute
 Rocky Mountain Laboratories
 National Human Genome Research Institute
-National Institute on Aging
-National Institute on Alcohol Abuse and Alcoholism
-National Institute of Allergy and Infectious Diseases
-National Institute of Arthritis and Musculoskeletal and Skin Diseases
 National Institute of Biomedical Imaging and Bioengineering
-National Institute of Child Health and Human Development
 National Institute on Deafness and Other Communication Disorders
 National Institute of Dental and Craniofacial Research
-National Institute of Diabetes and Digestive and Kidney Diseases
-National Institute on Drug Abuse
-National Institute of Environmental Health Sciences
 National Institute of General Medical Sciences
-National Institute of Mental Health
 National Institute on Minority Health and Health Disparities
-National Institute of Neurological Disorders and Stroke
 National Institute of Nursing Research
-Center for Information Technology
 Center for Scientific Review
 Fogarty International Center
 National Center for Advancing Translational Sciences
 National Center for Complementary and Integrative Health
-NIH Clinical Center
-National Institute of Mental Health
 Public Health Service
 Federal Occupational Health
 Office of the Surgeon General
 Public Health Service Commissioned Corps
-Substance Abuse and Mental Health Services Administration
 Department of Homeland Security
 Secretary of Homeland Security
 Deputy Secretary of Homeland Security
 Coast Guard
-Management and Administration
 Computer Emergency Readiness Team
 US CERT
 National Homeland Security University
-Office of Emergency Management
-Office of Security
 DOHS Police
 National Homeland Security Library
 DHS Office of the Inspector General
-Federal Emergency Management Agency
 FEMA Public Assistance
 FEMA Corps
 National Emergency Technology Guard
 US Fire Administration
 Office of Homeland Security Statistics
 Federal Law Enforcement Training Centers
-Transportation Security Administration
 Federal Air Marshal Service
 Citizenship and Immigration Services
-Coast Guard
 Coast Guard Intelligence
 Coast Guard Police
-Office of Security
-Office of Emergency Management
-Office of Statistics
-Office of International Affairs
 CG Police
 CG Library
 National Ice Center
 Ice Patrol
-Customs and Border Protection
 Office of Air and Marine
 Office of Border Patrol
 US Border Patrol
 Office of Field Operations
-Immigration and Customs Enforcement
 Enforcement and Removal Operations
 Homeland Security Investigations
 Office of Professional Responsibility
 Secret Service
 Homeland Security Advisory Council
-Domestic Nuclear Detection Office
-Office of Health Affairs
 Office of Component Services
 Office of International Affairs and Global Health Security
 Office of Medical Readiness
 Office of Weapons of Mass Destruction and Biodefense
 Office of Intelligence and Analysis
-Office of Operations Coordination
-Office of Policy
-Homeland Security Advisory Council
-Office of International Affairs
 Office of Immigration Statistics
 Office of Policy Development
 Office for State and Local Law Enforcement
 Office of Strategic Plans
 Private Sector Office
-Directorate for Management
-National Protection and Programs Directorate
-Federal Protective Service
 Office of Cybersecurity and Communications
 National Communications System
 National Cyber Security Division
-Computer Emergency Readiness Team
 Office of Emergency Communications
-Office of Infrastructure Protection
 Office of Risk Management and Analysis
-Office of Biometric Identity Management
-Science and Technology Directorate
 Environmental Measurements Laboratory → National Urban Security Technology Laboratory
 Homeland Security Advanced Research Projects Agency
 Office of Research
@@ -1909,7 +1637,6 @@ Executive Secretariat Office
 Human Capital Office
 Key Security Office
 Office of the Chief Administrative Officer
-Office of the Chief Information Officer
 Planning and Management
 Corporate Communications Division
 Interagency and First Responders Programs Division
@@ -1921,77 +1648,53 @@ Strategy, Policy and Budget Division
 Special Programs Division
 Test & Evaluation and Standards Division
 Department of Housing and Urban Development
-Secretary of Housing and Urban Development
 Deputy Secretary of Housing and Urban Development
 Federal Housing Administration
 National Housing and Urban Development University
-Office of Security
-Office of Emergency Management
 DOHAUD Police
 National HUD Library
-Management and Administration
 Administrative Law
 NA Affairs
 Judicial Affairs
 HUD Policy
-General Counsel
 DHAUD Office of the Inspector General
 Office of HUD Statistics
 Office of HUD Intelligence
-Office of International Affairs
 Center for Faith-Based and Neighborhood Partnerships
 Departmental Enforcement Center
 Office of Community Planning and Development
 Office of Congressional and Intergovernmental Relations
-Office of Equal Employment Opportunity
 Office of Fair Housing and Equal Opportunity
 Office of Federal Housing Enterprise Oversight
 Office of Field Policy and Management
-Office of the General Counsel
 Office of Healthy Homes and Lead Hazard Control
 Office of Hearings and Appeals
 Office of Labor Relations
 Office of Policy Development and Research
-Office of Public Affairs
 Office of Public and Indian Housing
-Office of Small and Disadvantaged Business Utilization
 Office of Sustainable Housing and Communities
-Government National Mortgage Association
 Department of the Interior
 Secretary of The Interior
 Deputy Secretary of The Interior
-General Counsel
-Administrative Law
 White House Liaison
-Public Affairs
-Congressional and Intergovernmental Affairs
 National Interior University
-Office of Security
 Indian Arts and Craft Board
-Office of Emergency Management
 DOTI Police
 National Interior Library
-Office of International Affairs
 Office of Interior Statistics
 Office of Interior Intelligence
-Bureau of Indian Affairs
 Bureau of Indian Affairs Police
 Bureau of Indian Education
 DOTI Office of the Inspector General
-Bureau of Land Management
 Bureau of Land Management Office of Law Enforcement
-Bureau of Ocean Energy Management
-Bureau of Reclamation
 BOR Police
 Hoover Dam Police
 Bureau of Safety and Environmental Enforcement
-Fish and Wildlife Service
 National Wildlife Refuge System
 NWRS Division of Refuge Law Enforcement
 Sport Fishing and Boating Partnership Council
 FWS Office of Law Enforcement
 Endangered Species Program
-National Park Service
 NPS Rangers
 Park Police
 Office of Insular Affairs
@@ -1999,37 +1702,21 @@ Office of Surface Mining
 National Mine Map Repository
 Geological Survey
 Federal Consulting Group
-Department of Justice
-Attorney General
 Deputy Attorney General
-Associate Attorney General
 Principal Deputy Associate Attorney General
 National Justice University
 Coordinating Council on Juvenile Justice and Delinquency Prevention
-Office of Security
-Office of Emergency Management
 DOJ Police
 National Justice Library
 DOJ Office of the Inspector General
-Office of International Affairs
 Antitrust Division
 Asset Forfeiture Program
-Bureau of Alcohol, Tobacco, Firearms and Explosives
-Civil Division
 Civil Rights Division
 Community Oriented Policing Services
 Community Relations Service
-Criminal Division
-Drug Enforcement Administration
 Diversion Control Program
 Environment and Natural Resources Division
-Executive Office for Immigration Review
 Offices of
-Civil Rights
-Management and Administration
-Congressional and Intergovernmental Affairs
-General Counsel
-White House Liaison
 Elder Justice Initiative
 Defending Childhood
 Financial Fraud Enforcement Task Force
@@ -2037,17 +1724,13 @@ National Commission on Forensic Science
 Executive Office for Organized Crime Drug Enforcement Task Force
 Executive Office for United States Attorneys
 Executive Office for United States Trustees
-Federal Bureau of Investigation
 FBI Police
 Federal Bureau of Prisons
-Federal Prison Industries
 Foreign Claims Settlement Commission
 INTERPOL - United States National Central Bureau
-Justice Management Division
 National Crime Information Center
 National Drug Intelligence Center
 National Institute of Corrections
-National Security Division
 Office of the Associate Attorney General
 Office of the Attorney General
 Office of Attorney Recruitment and Management
@@ -2057,13 +1740,11 @@ Office of Dispute Resolution
 Office of the Federal Detention Trustee
 Office of Information Policy
 Office of Intergovernmental and Public Liaison
-Office of Intelligence and Analysis
 Office of Justice Programs
 Bureau of Justice Assistance
 Bureau of Justice Statistics
 Community Capacity Development Office
 National Criminal Justice Reference Service
-National Institute of Justice
 Office of Juvenile Justice and Delinquency Prevention
 Office for Victims of Crime
 Office of Legal Counsel
@@ -2071,8 +1752,6 @@ Office of Legal Policy
 Office of Legislative Affairs
 Office of the Pardon Attorney
 Office of Privacy and Civil Liberties
-Office of Professional Responsibility
-Office of Public Affairs
 Office of Sex Offender Sentencing, Monitoring, Apprehending, Registering and Tracking
 Office of the Solicitor General
 Office of Special Counsel
@@ -2089,51 +1768,31 @@ DOL Police
 National Labor Library
 Bureau of International Labor Affairs
 Pension Benefit Guaranty Corporation
-Bureau of Labor Statistics
-Center for Faith-Based and Neighborhood Partnerships
-Employee Benefits Security Administration
-Employment and Training Administration
 Job Corps
 American Jobs Center Network
 American Job Centers
-Mine Safety and Health Administration
-Occupational Safety and Health Administration
 Veterans' Employment and Training Service
 Wage and Hour Division
 Women's Bureau
-Administrative Review Board
 Benefits Review Board
 Employees' Compensation Appeals Board
-Office of the Chief Financial Officer
-Office of the Chief Information Officer
-Office of Congressional and Intergovernmental Affairs
-Office of Disability Employment Policy
 Office of Federal Contract Compliance Programs
 Office of Labor-Management Standards
-Office of the Solicitor
 Office of Worker's Compensation Program
 Ombudsman for the Energy Employees Occupational Illness Compensation Program
 Wirtz Labor Library
 Office of
-Offices of
-Department of State
 Secretary of State
 Deputy Secretary of State
 Foreign Affairs Policy Board
 National State University
 Fulbright Foreign Scholarship Board
-Office of Security
-Office of Emergency Management
 DOS Police
 National State Library
 Office of State Statistics
-Office of International Affairs
-Agency for International Development
 DOS Office of the Inspector General
 National Council for the Traditional Arts
 Foreign Service
-General Counsel
-Management and Administration
 Bureau of Intelligence and Research
 Bureau of Legislative Affairs
 Office of the Legal Adviser
@@ -2145,42 +1804,29 @@ Counselor of the US Department of State
 Office of the United States Global AIDS Coordinator
 Policy Planning Staff
 Bureau of Arms Control, Verification, and Compliance
-Bureau of International Security and Nonproliferation
 Bureau of Political-Military Affairs
 Office of Weapons Removal and Abatement
 Bureau of Conflict and Stabilization Operations
 Bureau of Counterterrorism and Countering Violent Extremism
 Bureau of Democracy, Human Rights, and Labor
-Bureau of International Narcotics and Law Enforcement Affairs
 Bureau of Population, Refugees, and Migration
 Office of Global Criminal Justice
 Office to Monitor and Combat Trafficking in Persons
 Bureau of Economic and Business Affairs
 Bureau of Energy Resources
 Bureau of Oceans and International Environmental and Scientific Affairs
-Bureau of Administration
-Bureau of Consular Affairs
 Office of Children's Issues
 Office of Overseas Citizens Services
-Bureau of Diplomatic Security
 Diplomatic Security Service
 Office of Foreign Missions
 Embassies, Consulates, Other posts
 Overseas Security Advisory Council
-Bureau of Human Resources
 Family Liaison Office
-Bureau of Information Resource Management
 Office of eDiplomacy
 Bureau of Overseas Buildings Operations
 Bureau of Resource Management
-Foreign Service Institute
 Office of Management Policy, Rightsizing and Innovation
-Bureau of African Affairs
-Bureau of East Asian and Pacific Affairs
-Bureau of European and Eurasian Affairs
 Bureau of International Organization Affairs
-Bureau of Near Eastern Affairs
-Bureau of South and Central Asian Affairs
 Bureau of Western Hemisphere Affairs
 Bureau of Educational and Cultural Affairs
 Bureau of International Information Programs
@@ -2204,47 +1850,26 @@ Mission to the UN Agencies in Rome
 Mission to the United Nations Office and Other International Organizations in Geneva
 Observer Mission to the United Nations Educational, Scientific, and Cultural Organization
 Permanent Mission to the United Nations Environment Programme and the United Nations Human Settlements Programme
-Secretary of Transportation
 Deputy Secretary of Transportation
 Office of the Secretary of Transportation
 Office of the Assistant Secretary for Administration
-Office of the Chief Financial Officer
-Office of the Chief Information Officer
-Office of Civil Rights
 Office of Drug & Alcohol Policy & Compliance
-Office of the General Counsel
 Office of the Assistant Secretary for Governmental Affairs
 Office of Hearings
 Office of Intelligence, Security and Emergency Response
 Office of the Assistant Secretary for Research and Technology
-Office of Small and Disadvantaged Business Utilization
 Office of the Under Secretary for Policy
-Federal Aviation Administration
-Federal Highway Administration
-Federal Motor Carrier Safety Administration
-Federal Railroad Administration
-Federal Transit Administration
-Maritime Administration
 Merchant Marine Academy
-National Highway Traffic Safety Administration
-Office of the Inspector General
-Pipeline and Hazardous Materials Safety Administration
 Saint Lawrence Seaway Development Corporation
-Department of Transportation
 Department of the Treasury
 Secretary of the Treasury
 Deputy Secretary of the Treasury
 Departmental Offices
 Office of Domestic Finance
 Office of Economic Policy
-General Counsel
-Office of International Affairs
-Office of Legislative Affairs
-Office of Management
 Office of Financial Research
 Office of Financial Stability
 Financial Stability Oversight Council
-Office of Public Affairs
 Chief Risk Officer
 Office of Tax Policy
 Office of Terrorism and Financial Intelligence
@@ -2253,11 +1878,7 @@ Alcohol and Tobacco Tax and Trade Bureau
 Bureau of Engraving & Printing
 Bureau of the Fiscal Service
 Community Development Financial Institution Fund
-Financial Crimes Enforcement Network
-Internal Revenue Service
-Office of the Comptroller of the Currency
 Office of Thrift Supervision
-Office of the Inspector General
 Office of the Inspector General for Tax Administration
 Special Inspector General, Troubled Asset Relief Program
 U.S. Mint
@@ -2266,13 +1887,8 @@ Secretary of Veterans Affairs
 Deputy Secretary of Veterans Affairs
 National Veterans Affairs University
 National Cemetery Administration
-Veterans Benefits Administration
-Veterans Health Administration
 DOVA Police
 National Veterans Affairs Library
-Office of International Affairs
-Office of Security
-Office of Emergency Management
 Office of Veterans Affairs Statistics
 Office Of Veterans Affairs Intelligence
 DOVA Office of the Inspector General
@@ -2285,18 +1901,13 @@ Office of Advisory Committee Management
 Office of Employment Discrimination Complaint Adjudication
 Office of Survivors Assistance
 Office of Acquisition, Logistics, and Construction
-Office of Information and Technology
-Office of Small and Disadvantaged Business Utilization
 Veterans Service Organizations Liaison
 Administrative Conference of the United States
-National Archives and Records Administration
 Office of the United States Presidential Libraries
 Information Security Oversight Office
 Public Interest Declassification Board
 Office of the Federal Register
 Merit Systems Protection Board
-Office of Government Ethics
-Office of Personnel Management
 The Center for Applied Financial Management
 Human Resources University
 USOOPM Office of the Inspector General
@@ -2307,18 +1918,14 @@ Chief Acquisition Officers Council
 Chief Human Capital Officers Council
 Chief Financial Officers Council
 Chief Information Officers Council
-Office of Special Counsel
-Office of Compliance
 Federal Trade Commission
 FTC Office of the Inspector General
 Consumer Product Safety Commission
 CPSC Office of the Inspector General
-Federal Communications Commission
 Universal Service Fund
 Radio Amateur Civil Emergency Service
 Federal Housing Finance Agency
 Federal Housing Finance Board
-US Trade and Development Agency
 International Trade Commission
 National Fire Information Council
 National Advisory Council on Violence Against Women
@@ -2344,7 +1951,6 @@ Japan-United States Friendship Commission
 Fiscal Responsibility and Reform Commission
 Commission on Security and Cooperation in Europe
 Helsinki Commission
-Federal Interagency Committee on Education
 Federal Interagency Council on Statistical Policy
 Committee for the Implementation of Textile Agreements
 Federal Interagency Committee for the Management of Noxious and Exotic Weeds
@@ -2375,23 +1981,18 @@ James Madison Memorial Fellowship Foundation
 Harry S. Truman Scholarship Foundation
 Morris K. Udall and Stewart L. Udall Foundation
 Vietnam Education Foundation
-National Aeronautics and Space Administration
 National Science Board
-National Science Foundation
 University Corporation for Atmospheric Research
 National Center for Atmospheric Research
 Antarctic Program
 Arctic Research Commission
-Nuclear Regulatory Commission
 Office of the Federal Coordinator, Alaska Natural Gas Transportation Projects
 Tennessee Valley Authority
 Tennessee Valley Authority Police
-African Development Foundation
 Export–Import Bank of the United States
 Inter-American Foundation
 Overseas Private Investment Corporation
 Advisory Council on Historic Preservation
-Environmental Protection Agency
 Environmental Protection Agency Office of Enforcement and Compliance Assurance
 Presidio Trust
 Appalachian Regional Commission
@@ -2407,17 +2008,12 @@ National Labor Relations Board
 National Mediation Board
 Occupational Safety and Health Review Commission
 Chemical Safety Board
-Commodity Futures Trading Commission
 Farm Credit Administration
-Federal Reserve System
 Federal Reserve Police
-Consumer Financial Protection Bureau
 Federal Deposit Insurance Corporation
 National Credit Union Administration
 Central Liquidity Facility
-Securities and Exchange Commission
 Securities Investor Protection Corporation
-Small Business Administration
 Military Postal Service Agency
 Postal Regulatory Commission
 Postal Service
@@ -2427,12 +2023,8 @@ Citizens' Stamp Advisory Committee
 USPS Office of the Inspector General
 US Philatelic Bureau
 US Stamp Printing Service
-Federal Retirement Thrift Investment Board
 Thrift Savings Plan
-Railroad Retirement Board
-Social Security Administration
 Court Services and Offender Supervision Agency
-General Services Administration
 Federal Systems Integration and Management Center
 Federal Citizen Information Center
 Office of the President-Elect
@@ -2441,7 +2033,6 @@ Commission of Fine Arts
 National Railroad Passenger Corporation
 Amtrak Police
 Federal Maritime Commission
-National Transportation Safety Board
 Surface Transportation Board
 Corporation for National and Community Service
 AmeriCorps Organizations
@@ -2476,7 +2067,6 @@ John F. Kennedy Center for the Performing Arts
 National Trust for Historic Preservation
 National Building Museum
 National Gallery of Art
-Smithsonian Institution
 Smithsonian Police
 Smithsonian Institution Office of Protection Services
 National Zoological Police
@@ -2494,7 +2084,6 @@ National Futures Association
 Public Company Accounting Oversight Board
 Financial Industry Regulatory Authority
 American Institute in Taiwan
-Millennium Challenge Corporation
 National Endowment for Democracy
 Institute of Peace
 National Industries for the Blind
@@ -2552,9 +2141,7 @@ Redondo Beach
 Redwood City
 San Bernardino
 San Clemente
-San Diego
 San Fernando
-San Francisco
 San Gabriel
 San Jose
 San Juan Capistrano
@@ -2625,7 +2212,6 @@ New Smyrna Beach
 Ormond Beach
 Palm Bay
 Palm Beach
-Panama City
 Pompano Beach
 Saint Augustine
 Saint Petersburg
@@ -2671,7 +2257,6 @@ Fort Wayne
 French Lick
 Michigan City
 New Albany
-New Castle
 New Harmony
 Santa Claus
 South Bend
@@ -2697,7 +2282,6 @@ Fort Scott
 Garden City
 Great Bend
 Junction City
-Kansas City
 Medicine Lodge
 Overland Park
 Smith Center
@@ -2736,11 +2320,9 @@ East Lansing
 Grand Haven
 Grand Rapids
 Grosse Pointe
-Highland Park
 Iron Mountain
 Mackinaw City
 Mount Clemens
-Mount Pleasant
 Port Huron
 Royal Oak
 Saint Ignace
@@ -2767,10 +2349,8 @@ Yazoo City
 Cape Girardeau
 Excelsior Springs
 Jefferson City
-Kansas City
 New Madrid
 Saint Charles
-Saint Joseph
 Saint Louis
 Sainte Genevieve
 West Plains
@@ -2787,7 +2367,6 @@ Boulder City
 Carson City
 Las Vegas
 North Las Vegas
-Virginia City
 New Hampshire
 New Jersey
 Asbury Park
@@ -2797,13 +2376,10 @@ Cape May
 East Orange
 Fort Lee
 Jersey City
-Long Beach
 Long Branch
-Menlo Park
 Mount Holly
 New Brunswick
 New Milford
-Ocean City
 Parsippany–Troy Hills
 Perth Amboy
 South Orange Village
@@ -2812,23 +2388,19 @@ West New York
 West Orange
 New Mexico
 Las Cruces
-Las Vegas
 Los Alamos
 Santa Fe
 Silver City
 Truth or Consequences
-New York
 Coney Island
 Crown Point
 East Aurora
 East Hampton
 Forest Hills
-Garden City
 Glens Falls
 Great Neck
 Hyde Park
 Lake Placid
-Mount Vernon
 New Paltz
 New Rochelle
 New Windsor
@@ -2860,13 +2432,11 @@ North Dakota
 Devils Lake
 Grand Forks
 Valley City
-Bowling Green
 Cleveland Heights
 Cuyahoga Falls
 East Cleveland
 East Liverpool
 Martins Ferry
-Mount Vernon
 New Philadelphia
 North College Hill
 Shaker Heights
@@ -2893,7 +2463,6 @@ The Dalles
 Jim Thorpe
 Lock Haven
 Lower Southampton
-New Castle
 New Hope
 New Kensington
 Oil City
@@ -2906,13 +2475,11 @@ East Providence
 North Kingstown
 South Kingstown
 South Carolina
-Mount Pleasant
 Myrtle Beach
 Rock Hill
 South Dakota
 Belle Fourche
 De Smet
-Hot Springs
 Rapid City
 Sioux Falls
 Johnson City
@@ -2925,7 +2492,6 @@ Del Rio
 Eagle Pass
 El Paso
 Fort Worth
-Johnson City
 New Braunfels
 Port Arthur
 Port Lavaca
@@ -2977,21 +2543,10 @@ Sturgeon Bay
 West Allis
 West Bend
 Wisconsin Dells
-Green River
 Rock Springs
 Ten Sleep
-Rhode Island
-South Carolina
-South Dakota
 PUERTO RICO
 VIRGIN ISLANDS
-New Hampshire
-New Jersey
-New Mexico
-New York
-North Carolina
-North Dakota
-West Virginia
 ***** FROM WIKIPEDIA *****
 Defense Strategic Guidance
 Afloat Forward Staging Base
@@ -3006,7 +2561,6 @@ Armed Forces America
 Assembly Area
 Assessment Agent
 Avenue Of Approach
-Army Audit Agency
 Antiaircraft Artillery
 Arrival And Assembly Area
 Assign Alternate Area
@@ -3144,11 +2698,9 @@ Continually Calculated Release Point
 Computerized Dumb Ass Tanker
 Carbon Dioxide Information Analysis Center
 Commander United States Pacific Command
-Central Command
 Cluster Fuck
 Cunt Hair
 Containerized Housing Unit
-Central Intelligence Agency
 Combat Infantry Badge
 Command Intelligence Center
 Commander-in-chief, Atlantic Forces
@@ -3187,17 +2739,11 @@ Defence Attaché
 Department of the Army Civilian
 Department of the Army General Officer
 Defense Advanced GPS Receiver
-Defense Advanced Research Projects Agency
 Department of Defense Cyber Crime Center
-Defense Contract Audit Agency
-Defense Contract Management Agency
 Date Estimated Return From Overseas
 the United States naval special warfare DEVelopment GRoUp
 Dining Facility
-Defense Finance and Accounting Service
 Defensive Intelligence Agency
-Dining Facility
-Defense Information Systems Agency
 Dead Letter Box
 Defense Manpower Data Center
 Depot Maintenance Enterprise
@@ -3211,7 +2757,6 @@ Drop-Off Point
 Disruptive Pattern Material
 Dead Right There
 Daily Tasking Order
-Defense Threat Reduction agency
 Drop Zone
 Escape and Evade
 Electronic Attack
@@ -3233,13 +2778,11 @@ Emergency Rendezvous
 Electronic Surveillance System for Early Notification of Community-based Epidemics
 Estimated time of arrival
 Estimated Termination of Service
-European Command
 Electronic Warfare
 Field Artillery
 First Aid Kit
 Federal Acquisition Regulation
 Force XXI Battlefield Command Brigade and Below
-Federal Bureau of Investigation
 Forward Edge of the Battle Area
 Fire for effect
 FIre Direction Officer
@@ -3300,7 +2843,6 @@ High Mobility Multipurpose Wheeled Vehicle
 Her Majesty's New Zealand Ship
 Hans Majestäts Skepp
 Her Majesty's Ship
-Homeland Security
 Hometown Recruiter Assistance Program
 Headquarters and Headquarters Battery
 Headquarters and Headquarters Company
@@ -3318,7 +2860,6 @@ Improvised Explosive Device
 Individual First Aid Kit
 Identification Friend or Foe
 Introduction to Fighter Fundamentals
-Inspector General
 Infantry Fighting Vehicle
 United States Army Intelligence and Security Command
 International Criminal Police Organization
@@ -3358,13 +2899,11 @@ Lieutenant, Junior Grade
 Lying-Up Point
 Landing Zone
 Military Assistance Command Vietnam / Special Operations Group
-MARine CORps SYStems COMmand
 MARine FORces REServe
 Marine Corps Forces Special Operations Command
 Micro Air Vehicle
 Maximum Allowable Weight
 Main Battle Tank
-Marine Corps Community Services
 Marine Corps Enterprise Network
 Marine Corps Enterprise Information Technology Service
 Master Chief Petty Officer
@@ -3391,7 +2930,6 @@ Mine Resistant Ambush Protected
 Meal Ready to Eat
 Mission Rehearsal Exercise
 Master Sergeant
-Master Sergeant
 Modified Table Of Organizational Equipment
 Movement Tracking System Plus
 Marine Science Diving Club
@@ -3401,12 +2939,9 @@ Morale Welfare Recreation
 North American Free Trade Agreement
 Naval Air Station
 North Atlantic Treaty Organisation
-Naval Criminal Investigative Service
-Naval Air Systems Command
 Naval Forces Central Command
 Naval Oceanographic Office
 National Biodefense Analysis and Countermeasures Center
-National Cancer Institute
 Non-Commissioned Officer
 Non-Commissioned Officer in Charge
 Non-Commissioned Officer Education System
@@ -3422,7 +2957,6 @@ Non-Nuclear Munitions Storage Area
 North American Aerospace Defense Command
 National Pollutant Discharge Elimination System
 Network Services
-National Security Agency
 Naval Special Warfare
 Naval Special Warfare Development Group
 Non-Useful Body / Nuclear Unqualified Bitch
@@ -3432,7 +2966,6 @@ Officer Candidate School
 Operational Detachment-Alpha
 Operational Dress Uniform
 Officer in Charge
-Office of Inspector General
 On the Move
 Operations & Maintenance, Marine Corps
 Operations & Maintenance, Navy
@@ -3446,7 +2979,6 @@ Operations Security
 Out There Flapping
 Officer Training School
 Outer Tactical Vest
-Pacific Command
 PALACE Acquire
 Permanent Change of Station
 Permanent Duty Station
@@ -3539,7 +3071,6 @@ Special Reconnaissance Regiment
 Same Shit Different Day
 Same Shit Different Day Bigger Shovel
 Staff Sergeant
-Staff Sergeant
 Shit Out of Luck
 Shit Out of Luck and Jolly Well Fucked
 Short Takeoff, Vertical Landing
@@ -3549,7 +3080,6 @@ Tactical Air Control Party
 Temporary Additional Duty
 Tactical Action Officer
 To Be Determined
-Tactical Combat Casualty Care
 Tactical Combat Casualty Care
 Temporary Duty Pending Further Orders
 Temporary Duty
@@ -3605,22 +3135,17 @@ Will Comply
 Worst Case Scenario
 Executive Officer
 You Gotta Be Shitting Me
-Airman First Class
 Airman Second Class
 Airman Third Class
 Alaskan Air Defense Sector
-Army and Air Force Exchange Service
-Airman Basic
 Air Base
 Aircraft Battle Damage Repair
 Air Battle Manager
 Airman Battle Uniform
 Air Base Wing
 Airspace Control Authority
-Air Combat Command
 Aerospace Control Officer
 Advanced Communications Officer Training
-Air Command and Staff College
 Air Control Wing
 Area Defense Counsel
 Administrative Control
@@ -3630,9 +3155,7 @@ Airfield Damage Repair
 Active Duty Service Commitment
 Aerospace Expeditionary Force
 Aeromedical Evacuation Squadron
-Air Education and Training Command
 Air Expeditionary Wing
-Air Force Academy
 Air Force Association
 Air Force Audit Agency
 Air Force Achievement Medal
@@ -3644,19 +3167,16 @@ Air Force Cost Analysis Agency
 Air Force Catalog
 Air Force Civil Engineering Center
 Air Force Center for Engineering and the Environment
-Air Forces Central
 Air Force Civil Engineer Support Agency
 Air Force Career Field Manager
 Air Force Culture and Learning Center
 Air Force Commendation Medal
 Air Force Doctrine Center
-Air Force District of Washington
 Aircrew Flight Equipment
 Air Force Engineering and Technical Services
 Air Force Frequency Management Agency
 Air Force Flight Standards Agency
 Air Force Financial Services Center
-Air Force Global Strike Command
 Air Force Handbook
 Air Force Historical Research Agency
 Air Force Instruction
@@ -3664,24 +3184,18 @@ Air Force Inspection Agency
 Air Force Intelligence Analysis Agency
 Air Force Inspection System
 Air Force Intelligence, Surveillance and Reconnaissance Agency
-Air Force Institute of Technology
 Air Force Logistics Command
 Air Force Logistics Management Agency
-Air Force Legal Operations Agency
 Air Force Manpower Agency
 Air Force Manual
-Air Force Materiel Command
-Air Force Medical Operations Agency
 Air Force Military Personnel Center
 Air Force Medical Service or Air Force Manpower Standards
-Air Force Medical Support Agency
 Air Force Network Integration Center
 Air Force Network Operations Center
 Air Forces Northern
 Air Force National Security Emergency Preparedness Office
 Air Force Nuclear Weapons and Counterproliferation Agency
 Air Force Operations Group
-Air Force Officer Qualifying Test
 Air Force Operational Test and Evaluation Center
 Air Force Public Affairs Agency
 Air Force Pamphlet
@@ -3692,28 +3206,22 @@ Air Force Program Executive Office
 Air Force Petroleum Agency
 Air Force Personnel Operations Agency
 Air Force Review Boards Agency
-Air Force Reserve Command
 Air Force Records Information Management System
 Air Force Research Lab
 Air Force Reserve Officers Training Corps
 Air Force Real Property Agency
 Air Force Station
 Air Force Sergeants Association
-Air Force Sustainment Center
-Air Force Safety Center
-Air Force Specialty Code
 Air Force Systems Command
 Air Force Security Forces Center
 Air Force Smart Operations for the 21st Century
 Air Force Special Operations Command
 Air Forces Southern
-Air Force Space Command
 Air Force Services Agency
 Alert Fire Team
 Air Force Technical Order
 Air Force Visual Aids
 Air Force Virtual Education Center
-Air Force Weather Agency
 Aerospace Ground Equipment
 An AGE Technician
 Active Guard and Reserve
@@ -3722,18 +3230,14 @@ Anti-G Straining Maneuver
 Air-Ground Operations Wing
 Alaska Region Air Operations Center
 Air Launched Cruise Missile
-All Concerned
 Air Liaison Officer
 Airman Leadership School
-Air Mobility Command
 Automated Military Justice Analysis and Management System
 Munitions Systems Technician AMMO
 Airborne Missile Maintenance Squadron Missile Badge
 Academy of Military Science
 Aircraft Metals Technology
 Air Mobility Wing
-Aircraft Maintenance Squadron
-Air National Guard
 Alaskan NORAD Region
 Authorized Outage
 Air and Space Operations Center
@@ -3747,38 +3251,30 @@ Armed or Alarm Response Team
 Air Refueling Wing
 Airlift Squadron
 Air Station
-As Soon As Possible
 Air and Space Basic Course
 Authorized Service Interruption
 Airport Surveillance Radar
 Assistant to the Adjutant General
-Air traffic control
 Air Training Command
 Air Traffic Control and Landing Systems
-Air Tasking Order
 Anti-Terrorism Officer
-Air University
 Air University Associate to Baccalaureate Cooperative
 Airlift Wing
 Airborne Warning and Control System on the E-3 Sentry aircraft
 A War Against Common Sense
 Air War College
-Absent Without Leave
 Awaiting Parts
-Basic Allowance for Housing
 Basic Allowance for Subsistence
 Bird/Wildlife Aircraft Strike Hazard
 Bachelor Airman Quarters
 Basic Communications Officer Training
 Base Defense Operations Center
-Battle Dress Uniform
 Bachelor Enlisted Quarters
 Bystander Intervention Training
 Base Information Transfer Center
 Base Information Transfer System
 Basic Fighter Maneuvers
 Blue Force Tracking
-Bottom Line Up Front
 Basic Military Training
 Bend Over, Here It Comes Again
 B-1 Lancer
@@ -3786,17 +3282,13 @@ Bachelor Officer Quarters
 Base Operating Support
 Basic Officer Training
 Below Primary Zone
-Base Realignment and Closure
 Base Records Manager
 Bomb Squadron
 Basic Surface Attack
 Below the zone
 Big Ugly Fat Fucker
 Bomb Wing
-Base Exchange
 The unnamed day on which a deployment operation begins or is to begin
-Command and Control
-Command, Control, Communications, Computers, Intelligence, Surveillance, and Reconnaissance
 Combat Arms
 Combat Air Force
 Control Air Force Specialty Code
@@ -3804,7 +3296,6 @@ Computer Aided Instruction
 Combined Air and Space Operations Center
 Core Automated Maintenance System
 Civil Air Patrol, the civilian USAF Auxiliary
-Close Air Support
 Combat Airman Skills Training
 Crisis Action Team
 Camper Alert Team
@@ -3816,8 +3307,6 @@ Chemical, Biological, Radiological, Nuclear, and High Yield Explosives
 Commanders Chief
 Commanders Secretary
 Community College of the Air Force
-Executive Officer
-First Sergeant
 Combat Control
 Deputy Commander
 Career Development Course
@@ -3825,47 +3314,37 @@ Civil Engineering or Civil Engineers
 Combat Evaluation Group
 Chief Enlisted Manager
 Civil Engineering Squadron
-Combat Evaluation Group
 Career Field Education and Training Plan
 Communications Focal Point
 Crash Fire Rescue
 Cockpit Familiarization Trainer
 Company Grade Officer
 Company Grade Officers' Council
-Cluster Fuck
 Counterintelligence, Compliance Inspection
 Close In Security Mobile
 Chairman of the Joint Chiefs of Staff
 Civil-Military Operations
 Chief Medical Officer
-Chief Master Sergeant of the Air Force
-Chief Master Sergeant
 Computer Network Attack
 Could Not Duplicate
 Computer Network Defense
 Computer Network Operations
 Counter Narco-Terror
-Course of Action
 Cost of Living Adjustment
-Communications Intelligence
 Concept of Operations
 Contracting Squadron
-Continental United States
 Commander, Air Force Forces
-Commissioned Officer Training
 Civilian Personnel Flight
 Comptroller Squadron
 Combat Rescue Officer
 COMSEC Responsible Officer
 Communications Squadron
 Chief of Staff of the Air Force
-Combat Search and Rescue
 Central Security Control
 Commander's Support Staff
 Combat Systems Officer
 Vice Commander
 Combined Unit Inspection
-Chief Warrant Officer
 The unnamed day on which an operation begins or is to begin
 Dissimilar Air Combat Training
 Duty Air Force Specialty Code
@@ -3875,9 +3354,6 @@ Dirtbag Airman
 Defensive Cyber Operations
 Destruction of Enemy Air Defenses
 Defense Eligibility Enrollment Reporting System
-Date Estimated Return from OverSeas
-Dining Facility
-Defense Finance and Accounting Service
 Danger Is No Stranger To An AGE Ranger
 Defense Meteorological Satellite Program
 Duties Not Including Flying
@@ -3900,7 +3376,6 @@ Deputy Wing Chaplain
 Extended Active Duty
 Eastern Air Defense Sector
 Electronic Counter Measures
-Entry Control Point
 Evolved Expendable Launch Vehicle
 Exercise Evaluation Team
 Exceptional Family Member Program
@@ -3912,16 +3387,12 @@ Expeditionary Medical Support
 Emission Security
 Euro NATO Joint Jet Pilot Training
 Equal Opportunity
-Emergency Operations Center
-Explosive Ordnance Disposal
 Enlisted Performance Report
 Engine Run Crew Change
 Electronic Visitor Access Request
 Engine Running Onload/Offload
-Electronic Warfare
 Electronic Warfare Officer
 Fitness Assessment
-Federal Aviation Administration
 Forward Air Base
 Forward Air Controller
 First Assignment Instructor Pilot
@@ -3930,10 +3401,8 @@ Field Grade Officer
 Fuck it I Got My Orders
 Foreign Language Profeciency Pay
 Financial Management Comptroller
-Fully Mission Capable
 Foreign Military Sales
 Field Maintenance Squadron
-Fucking New Guy
 Field Operating Agency
 Foreign Object Damage or debris that can cause damage
 For Official Use Only
@@ -3948,7 +3417,6 @@ Formal Training Unit
 Flying Training Wing
 Fucked Up Beyond All Recognition
 Fighter Wing
-For Your Situational Awareness
 G-induced Loss of Consciousness
 Global Broadcast Service
 Guidance and Control
@@ -3957,12 +3425,9 @@ Global Cyberspace Integration Center
 Ground Control Station
 Ground Data Terminal
 Ground Launched Cruise Missile
-General Officer
-Government Owned, Contractor Operated
 Government Owned, Government Operated
 Government Owned Vehicle
 Government Purchase Card
-Global Positioning System
 Government Travel Card
 Global War On Terrorism
 Headquarters Air Force
@@ -3980,18 +3445,13 @@ HARM Targeting System
 Heard, Understood, Acknowledged
 Hurry Up and Wait
 Head-Up Display
-Human Intelligence
 Information Assurance
 In Accordance With
-Intercontinental Ballistic Missile
 A problem that is created by an "idiot"
 In-Flight Emergency
-Identification Friend or Foe
-Introduction to Fighter Fundamentals
 Integrated Flight and Fire Control Computer
 Introductory Flight Screening
 Introductory Flight Training
-Inspector General
 Instrument landing system
 Integrated Maintenance Database System
 Imagery Intelligence
@@ -4002,16 +3462,12 @@ Information Operations
 Initial Operational Capability
 Information Operations Integration Course
 Intelligence Squadron
-Intelligence, Surveillance, and Reconnaissance
 Information, Tickets, and Travel
-If You Ain't Ammo, You Ain't Shit
 If You Ain't Ammo, You're Waitin' On Them
 Joint Surveillance Target Attack Radar System on the E-8 JSTARS aircraft
-Judge Advocate
 Joint Airborne/ Air Transportability Training
 Joint Air and Space Operations Center
 Jet-Assisted Take-Off
-Joint Direct Attack Munition
 Just Enough Education To Pass
 Just Entering Electronic Principals
 Just Educated Enough to Post
@@ -4022,7 +3478,6 @@ Joint Operation Planning and Execution System
 Joint Primary Air Training System
 Joint Professional Military Education
 Joint Primary Pilot Training
-Joint Strike Fighter
 Joint Standoff Weapon
 Joint Specialized Undergraduate Pilot Training
 Joint Worldwide Intelligence Communications System
@@ -4044,11 +3499,9 @@ Logistics NCOIC
 Letter of Reprimand.
 Low Altitude Training.
 Logistics Readiness Squadron.
-Lieutenant General
 Leave Without Pay.
 Military Airlift Command
 Mobility Air Force
-Major General
 Major Command
 Man-Portable Air Defense System
 Major Accident Response Exercise
@@ -4071,11 +3524,9 @@ Massive Ordnance Air Blast Bomb/Mother Of All Bombs
 Military Operations Other than War
 Maintenance Operations Squadron
 Military Personnel Flight
-Meal Ready to Eat
 Missile Squadron
 Mission Support Group
 Medical Standard Management Element
-Master Sergeant
 Mission Support Squadron
 Military Training Instructor
 Military Training Leader
@@ -4086,17 +3537,13 @@ Maintenance Group
 Maintenance Squadron
 Numbered Air Force
 Network Control Center
-Non-commissioned Officer
 Non-commissioned Officer Academy
-Non-Commissioned Officer in Charge
 Network-Centric Warfare
 Nondestructive Inspection
 Northeast Air Defense Sector
-National Guard Bureau
 Non-secure Internet Protocol
 Nobody Kicks Ass Without Tanker Gas
 Non Mission Capable
-Non-Nuclear Munitions Storage Area
 National Museum of the United States Air Force
 USAF commissioned officer not holding an aeronautical rating
 Network Operations and Security Center
@@ -4121,7 +3568,6 @@ Observe Orient Decide Act
 Operational Control
 Office of Primary Responsibility
 Officer Performance Report
-Operations Security
 Operationalizing and Professionalizing the Network
 Operational Readiness Inspection
 Operation Risk Management
@@ -4129,24 +3575,16 @@ Office of Special Investigation
 Occupational Survey Report
 Operations Support Squadron
 Operational Test and Evaluation
-Officer Training School
-Public Affairs
-Pacific Air Forces
 Primary Air Force Specialty Code
 Precision Approach Radar
 Political Affairs Strategist
 Air passengers
-Permanent Change of Station
-Permanent Duty Station
 Personnel Support for Contingency Operations
 Promotion Fitness Examination
 Pure Fucking Magic
-Physical Fitness Test
 Problem In Chair, Not In Computer
 Person In Need of Graduation
 Person In need of Technical Training
-Partially Mission Capable
-Professional Military Education
 Precision Measurement Equipment Laboratory
 Petroleum, Oils, & Lubricants, the traditional name for the Fuels Management Flight
 Promotion Recommendation Form
@@ -4156,7 +3594,6 @@ Psychological Operations
 Physical Training Leader
 Quality Air Force
 Resource Advisor
-Royal Air Force
 Random Antiterrorism Measure
 Radar Approach Control
 Regional Affairs Strategist
@@ -4172,9 +3609,7 @@ Remain overnight
 Reserve Officers' Training Corps
 Remotely Piloted Aircraft
 Rescue Group
-Rescue Squadron
 Rescue Wing
-Return To Base
 Real Time In the Cockpit
 Reconnaissance Squadron
 Reconnaissance Wing
@@ -4195,7 +3630,6 @@ Southeast Air Defense Sector
 Special Experience Identifier
 Informal shortening for Senior Master Sergeant
 Separate Correspondence
-Survival, Evasion, Resistance and Escape
 Security Forces
 Security Forces Squadron
 A unit first sergeant
@@ -4204,7 +3638,6 @@ Secret Internet Protocol
 Specialty Knowledge Test
 Short Little Ugly Fucker
 Subject Matter Expert
-Senior Master Sergeant
 Situation Normal All Fucked Up
 Senior Non-commissioned Officer
 Senior Non-commissioned Officer Academy
@@ -4217,7 +3650,6 @@ Special Operations Weather Technician
 Senior Airman
 Solid Rock Cafe
 Security Response Team
-Staff Sergeant
 Supervisor Safety Training
 Stripe Through Exceptional Performance
 Nickname for the F-117 Nighthawk
@@ -4230,7 +3662,6 @@ Scientific Wild-Ass Guess
 Staff Weather Officer
 Test and Acceptance
 Tactical Air Command
-Tactical Air Control Party
 Tactical Air Navigation
 Tactical Control
 Total Active Federal Commission Service Date
@@ -4239,7 +3670,6 @@ Transition Assistance Program
 Training Business Area
 Time Compliance Network Order
 Time Compliance Technical Order
-Temporary Duty
 Total Federal Commissioned Service to Date
 Targeting Pod
 The Inspector General
@@ -4251,12 +3681,10 @@ Tactical Response Force
 Training Group
 Training Squadron
 Training Wing
-Technical Sergeant
 Time-Sensitive Target
 Tactics, Techniques, and Procedures
 Tango Uniform
 unmanned aircraft system
-unmanned aerial vehicle
 unit compliance inspection
 Undergraduate Combat Systems Officer Training
 Undergraduate Helicopter Pilot Training
@@ -4266,9 +3694,7 @@ unit manpower document
 Undergraduate Navigator Training
 Undergraduate Network Warfare Training
 Undergraduate Pilot Training
-United States Air Force
 United States Air Force Academy
-United States Air Forces in Europe
 United States Air Force Expeditionary Center
 United States Air Force Reserve
 United States Air Force Warfare Center
@@ -4292,7 +3718,6 @@ wing inspection team
 with out weapons we are just another airline
 war reserve material
 with regard to / with reference to
-weapons storage area
 weapon systems officer
 experimental aircraft
 prototype aircraft
@@ -4308,12 +3733,9 @@ Airman Apprentice
 Anti-Air Warfare
 Aviation Boatswain's Mate
 Aviation Boatswain's Mate - Equipment
-Aviation Boatswain's Mate
-Aviation Boatswain's Mate
 Air Traffic Controlman
 Armored cruiser
 Aviation Machinist's Mate
-Administrative control
 Automated Digital Network System
 Active Duty Special Work
 Active Duty Training
@@ -4340,9 +3762,7 @@ Afloat Readiness Reporting System
 Aviation Support Equipment Technician
 Air Search and Attack Unit
 Anti-Surface Warfare
-Armed Services Vocational Aptitude Battery
 Auxiliary Seawater system
-Anti-Submarine Warfare
 Anti-Submarine Warfare Officer
 Annual Training
 Aviation Electronics Technician
@@ -4353,19 +3773,14 @@ Aviation Gasoline
 Assistant Work Center Supervisor
 Aviation Maintenance Administrationman
 Bad Ass Marine
-Bad Conduct Discharge
-Birth Control Glasses
 Beyond Capable Maintenance
 Basic Enlisted Submarine School
 Blue Jacket of the Quarter
 Blue Jacket of the Year
-Bottom Line Up Front
 Boatswain's Mate
 Boatswain's Mate Of the Watch
-Bend Over Here It Comes Again
 Bupers Online
 Boiler Technician
-Bureau of Medicine and Surgery
 Bureau of Naval Personnel
 Bureau of Supplies and Accounts
 Bureau of Naval Weapons
@@ -4373,7 +3788,6 @@ Bravo Zulu
 Construction Apprentice
 Heavy Cruiser
 Guided Missile Heavy Cruiser
-Commander, Air Group
 Career Development Board
 Command Duty Officer
 Construction Electrician's Mate
@@ -4391,7 +3805,6 @@ Combat Information Center Officer
 CASREP Information System
 "Civilian Life" as defined by Atlantic Fleet personnel
 "Civilian Life" as defined by Pacific Fleet personnel
-Close-In Weapon System
 Construction Mechanic
 Commandant of the Marine Corps or Chaplain of the Marine Corps or Command Master Chief
 Command Master Chief
@@ -4400,9 +3813,7 @@ Career Management System-Interactive Detailing
 Chief of Naval Air Training
 Chief of Navy Reserve
 Command Naval Education and Training
-Chief of Naval Operations
 Commanding Officer[NB 1]
-Chief of the Boat
 Carrier Onboard Delivery
 Commander, Carrier Air Wing
 Commander, Destroyer Group
@@ -4415,7 +3826,6 @@ Commander, Naval Air Force Pacific
 Commander, Navy Reserve Forces
 Commander, Naval Sea Systems Command
 Commander, Naval Security Group
-Commander, Pacific Fleet
 Commander, Patrol and Reconnaissance Group
 Commander, Patrol and Reconnaissance Wing
 Composite Training Unit Exercise
@@ -4426,14 +3836,12 @@ Commander, Submarine Force, U.S. Pacific Fleet
 Commander, Tactical Air Control Group
 Commander, Training Air Wing
 Career Orientation and Training for Midshipmen
-Chief Petty Officer
 Chief Petty Officer's Mess
 Construction Recruit
 Coastal Riverine Group
 Culinary Specialist
 Coalition of Sailors Against Destructive Decisions
 Combat Systems Coordinator
-Command Senior Chief
 Culinary Specialist Chief
 Computerized Self Evaluation Checklist
 Combat Systems Maintenance Center
@@ -4445,9 +3853,7 @@ Cryptologic Technician Maintenance
 Cryptologic Technician Networks
 Cryptologic Technician Collection
 Cryptologic Technician Technical
-Nuclear-powered Aircraft Carrier
 Carrier Air Wing
-Chief Warrant Officer
 Drug and Alcohol Programs Advisor
 Damage Controlman
 Dental Corps
@@ -4461,7 +3867,6 @@ Radar Picket Destroyer
 Destroyer Escort
 Destroyer Division
 Destroyer Squadron
-Naval Special Warfare Development Group
 Diesel Fuel Marine
 Does It Look Like I Give A Fuck
 Director of the National Security Agency
@@ -4484,21 +3889,17 @@ Enlisted Information Dominance Warfare Specialist
 Electrician's Mate
 Emergency Management
 Emissions Control
-Extra Military Instruction
 Electronics Materiel Officer
 Equipment Operator
-Explosive Ordnance Disposal
 Engineering Officer of the Watch
 Enclosed Operating Space
 Engineering Operational Sequencing Systems
 Engineroom Supervisor
 Enlisted Surface Warfare Specialist
 Electronics Technician
-Electronic Warfare
 Engineering Watch Supervisor
 Expeditionary Warfare
 Fireman Apprentice
-Forward Air Controller
 Forward Air Controller/Airborne
 Fire Controlman
 Fleet Combat Direction Systems Support Activity
@@ -4512,7 +3913,6 @@ Fire Inhibit Switch
 Fleet Activity
 Fleet Marine Force
 Field Medical Service School
-Foreign Object Damage
 Fireman Recruit
 Fleet Readiness Center
 Fleet Replacement Squadron
@@ -4526,7 +3926,6 @@ Full-time Support
 Global Command and Control System-Maritime
 Gunner's Mate
 General Quarters
-General Services Administration
 Gas Turbine Systems Technician - Electrical
 Gas Turbine Systems Technician - Mechanic
 Hospital Apprentice
@@ -4538,7 +3937,6 @@ Helicopter Squadron, Anti-Submarine Warfare
 Hull Maintenance Technician
 Individual Augmentation Manpower Management
 In Assignment Processing
-In Accordance With
 Interior Communications Electrician
 In Case Of
 Industrial Hygiene Officer
@@ -4552,17 +3950,12 @@ Judge Advocate General's Corps, U.S. Navy
 Jet Blast Deflector
 Joint High Speed VesselJOJournalist
 Jet Propellant no. 5
-Joint Task Force
 Joint Task Force Exercise
-Keep It Simple, Stupid
 Atlantic Command
 Laser Weapon System
-Lieutenant Commander
 Leading Chief Petty Officer
 Littoral Combat Ship
 Limited Duty Officer
-Leave and Earnings Statement
-Leading Petty Officer
 Last Plane On Deck
 Long Range Acoustic Device
 Logistics Specialist
@@ -4571,7 +3964,6 @@ Lieutenant Junior Grade
 Marine Aviation Logistics Squadron
 Mass Communication Specialist
 Material Control Officer
-Master Chief Petty Officer
 Master Chief Petty Officer of the Navy
 Midnight Rations
 Machinery Division Leading Chief Petty Officer
@@ -4590,28 +3982,22 @@ Master Training Specialist
 Naval Amphibious Base
 Naval Air Facility
 Naval Aviation Logistics Command Management Information System
-Naval Air Station
 Naval Air Station / Joint Reserve Base
 Naval Air Training and Operational Procedure Standardization
-Naval Air Systems Command
 Comptroller of the Navy
 Chief of Navy Education and Training
-Naval Facilities Engineering Command
 Navy Flight Demonstration Squadron
 Naval Material Command
 Navy Military Personnel Command
-Naval Sea Systems Command
 Naval Security Group Activity
 Naval Station
 Naval Submarine Base
-Naval Supply Systems Command
 Chief of Naval Training
 Naval Air Warfare Center, Aircraft Division
 Naval Air Warfare Center, Weapons Division
 Naval Base San Diego
 Navy Combat Demolition Unit
 Naval Construction Force
-Naval Criminal Investigative Service
 Navy Commendation Medal
 Naval Computer and Telecommunications Area Master Station
 Naval Computer Telecommunications Station
@@ -4631,35 +4017,25 @@ Navy Operational Support Center
 Network On-Site Representative
 Navy Personnel Command
 Navy Reserve Officer Training Corps
-Naval Station
 Naval Strike and Air Warfare Center
-Naval Security Group Activity
 Navy Standard Integrated Personnel System
-Naval Surface Warfare Center
 Naval Special Warfare Group
 Naval Shipyard
 Naval Training Center
-Naval Undersea Warfare Center
 Non Watertight Door
 Navy Working Uniform
 Old Antarctic Explorer
 Oxygen Breathing Apparatus
-Officer Candidate School
 Out Freaking Standing
-Officer in Charge
-On the Move
 Official Military Personnel File
 Officer of the Deck
 Optimized Organizational Maintenance Activity
-Operational control
 Office of the Chief of Naval Operations
 Operations Officer
 Overseas Contingency Operation Support Assignments
 Optimal Ship Track Route
-Pacific Command
 People Against People Ever Reenlisting Civilian Life Is Preferred
 Prospective Commanding Officer
-Permanent Change of Station
 Post-Deployment Health Assessment
 Post-Deployment Health Re-Assessment
 Physical Fitness Assessment
@@ -4667,18 +4043,14 @@ Physical Health Assessment
 Physical Health Re-Assessment
 Pass in Review
 Petty Officer
-Point of Contact
 Plan of the Day
 Plan of the Month
 Petty Officer of the Watch
-President of the United States
 Plan of the Week
-Prisoner of War
 Projected Rotation Date
 Primary Flight Control
 Physical Readiness Test
 Puget Sound Naval Shipyard and Intermediate Maintenance Facility
-Physical Training
 Perform to Serve
 Public Works Department
 Prospective Executive Officer
@@ -4691,7 +4063,6 @@ Replacement Air Group
 Reactor Controls Assistant
 Red Data-Base Manager
 Recruit Division Commander
-Rear Admiral
 Repair Division Officer
 Rim of the Pacific
 Radar Intercept Officer
@@ -4702,35 +4073,28 @@ Religious Program Specialist
 Recruit Petty Officer in Charge or Recruit Chief Petty Officer
 Recruit Training Command
 Speed to Fleet
-Seaman Apprentice
 Surface Action Group
 Surface-to-Air Missile[NB 1]
-Sexual Assault Prevention and Response
 Special Amphibious Reconnaissance Corpsman
 Search and Attack Unit
 Small Craft Attack Team
 Self-Contained Breathing Apparatus
-Senior Chief Petty Officer
 Seabee Combat Warfare Specialist insignia
 Support Equipment
 Senior Enlisted Leader
 United States Navy SEALs
 Sea Operational Detachment
-Secretary of Defense
 Secretary of the Navy
 Shift Inspect Clean Lube Oil Strainers
 Submarine-Launched Ballistic Missile
 Student Naval Aviator
 Special Warfare Operator
-Status of Forces Agreement
 Sound Navigation And Ranging
 Senior Officer Present
 Senior Officer Present Afloat
 Sailor of the Quarter
 Sailor of the Year
-Space and Naval Warfare Systems Command
 Space and Naval Warfare Systems Center
-Seaman Recruit
 Selective Reenlistment Bonus
 Shutdown Roving Watch
 Submarine Specialist
@@ -4749,33 +4113,23 @@ Submarine Squadron
 Submarine Safety Program
 Supply Officer
 Surface Warfare Officer
-Temporary Additional Duty
 Training and Distribution Center
-Tactical Action Officer
 Training and Administration of the Reserve
 Task Element
-Task Force
 Temporary Flight Orders
-Things Falling Off Aircraft
 Task Group
 Torpedoman's Mate
 United States Navy Fighter Weapons School
 Troubled Systems Process
 Task Unit
 Type Commanders
-Unauthorized Absence
-Unmanned Aerial System
-Unmanned Aerial Vehicle
 Uniform Code of Military Justice
 Underwater Demolition Team
 Unless Otherwise Directed
 Underway Replenishment
 Unrestricted Line Officer
-United States Marine Corps
-United States Navy
 United States Naval Academy
 United States Naval Reserve
-United States Ship
 Underwater Telephone
 Fixed Wing Attack/Fixed Wing Medium Attack
 Fixed Wing Electronic-Attack Squadron
@@ -4798,4 +4152,3 @@ Watertight Compartment
 Watertight Door
 Whiskey Tango Foxtrot
 Water Tight Hatch
-Executive Officer
