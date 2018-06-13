@@ -1,170 +1,170 @@
 {
   "0": {
-    "label": "Dunno",
+    "label": "Paperwork",
     "threshold": 0.1
   },
   "1": {
-    "label": "Dunno",
+    "label": "Building Repair, Renovation, and Maintenance (construction heavy)",
     "threshold": 0.1
   },
   "2": {
-    "label": "Dunno",
+    "label": "Mental Health and Substance Abuse Outpatient Treatment",
     "threshold": 0.1
   },
   "3": {
-    "label": "Dunno",
+    "label": "Ship, Submarine, and Sea Craft",
     "threshold": 0.1
   },
   "4": {
-    "label": "Dunno",
+    "label": "Construction Projects",
     "threshold": 0.1
   },
   "5": {
-    "label": "Dunno",
+    "label": "Network and IT Services",
     "threshold": 0.1
   },
   "6": {
-    "label": "Dunno",
+    "label": "Veterans Health Clinics",
     "threshold": 0.1
   },
   "7": {
-    "label": "Dunno",
+    "label": "Residential Re-Entry for Prisoners",
     "threshold": 0.1
   },
   "8": {
-    "label": "Dunno",
+    "label": "Program Managements and Planning",
     "threshold": 0.1
   },
   "9": {
-    "label": "Dunno",
+    "label": "Waste Disposal",
     "threshold": 0.1
   },
   "10": {
-    "label": "Dunno",
+    "label": "Landscaping and Grounds Maintenance",
     "threshold": 0.1
   },
   "11": {
-    "label": "Dunno",
+    "label": "Business Solutions",
     "threshold": 0.1
   },
   "12": {
-    "label": "Dunno",
+    "label": "Security Guard Services",
     "threshold": 0.1
   },
   "13": {
-    "label": "Dunno",
+    "label": "Building Mechanical Systems Maintenance",
     "threshold": 0.1
   },
   "14": {
-    "label": "Dunno",
+    "label": "Anything involving maintenance and repair (all types: facility, computer, mechanical, everything)",
     "threshold": 0.1
   },
   "15": {
-    "label": "Dunno",
+    "label": "Comprehensive Medical Services",
     "threshold": 0.1
   },
   "16": {
-    "label": "Dunno",
+    "label": "Training and Instruction",
     "threshold": 0.1
   },
   "17": {
-    "label": "Dunno",
+    "label": "Homeless Veteran Services",
     "threshold": 0.1
   },
   "18": {
-    "label": "Dunno",
+    "label": "Scientific Research and Laboratory Work",
     "threshold": 0.1
   },
   "19": {
-    "label": "Dunno",
+    "label": "Specific Construction Projects",
     "threshold": 0.1
   },
   "20": {
-    "label": "Dunno",
+    "label": "Asset/Inventory Management",
     "threshold": 0.1
   },
   "21": {
-    "label": "Dunno",
+    "label": "Computer Systems Engineering",
     "threshold": 0.1
   },
   "22": {
-    "label": "Dunno",
+    "label": "Defense Systems (very broad)",
     "threshold": 0.1
   },
   "23": {
-    "label": "Dunno",
+    "label": "Custodial Services",
     "threshold": 0.1
   },
   "24": {
-    "label": "Dunno",
+    "label": "Towing and Vehicle Impounding",
     "threshold": 0.1
   },
   "25": {
-    "label": "Dunno",
+    "label": "Transportation Services",
     "threshold": 0.1
   },
   "26": {
-    "label": "Dunno",
+    "label": "Simulation and Analysis",
     "threshold": 0.1
   },
   "27": {
-    "label": "Dunno",
+    "label": "Sensor Technology and Systems",
     "threshold": 0.1
   },
   "28": {
-    "label": "Dunno",
+    "label": "Logistics Support",
     "threshold": 0.1
   },
   "29": {
-    "label": "Dunno",
+    "label": "Keyword \"Fort\" (probably a junk topic)",
     "threshold": 0.1
   },
   "30": {
-    "label": "Dunno",
+    "label": "Aviation Services",
     "threshold": 0.1
   },
   "31": {
-    "label": "Dunno",
+    "label": "Career, Training, and Education Services",
     "threshold": 0.1
   },
   "32": {
-    "label": "Dunno",
+    "label": "Environmental Services",
     "threshold": 0.1
   },
   "33": {
-    "label": "Dunno",
+    "label": "Military Operations (very broad)",
     "threshold": 0.1
   },
   "34": {
-    "label": "Dunno",
+    "label": "Keyword \"Center\" (probably a junk topic)",
     "threshold": 0.1
   },
   "35": {
-    "label": "Dunno",
+    "label": "Software Development",
     "threshold": 0.1
   },
   "36": {
-    "label": "Dunno",
+    "label": "Cyber Security",
     "threshold": 0.1
   },
   "37": {
-    "label": "Dunno",
+    "label": "Medicare and Health Insurance",
     "threshold": 0.1
   },
   "38": {
-    "label": "Dunno",
+    "label": "Cemetery Grounds Maintenance",
     "threshold": 0.1
   },
   "39": {
-    "label": "Dunno",
+    "label": "Janitorial Services",
     "threshold": 0.1
   },
   "40": {
-    "label": "Dunno",
+    "label": "Court Proceeding Transcription",
     "threshold": 0.1
   },
   "41": {
-    "label": "Dunno",
+    "label": "Financial Management and Reporting",
     "threshold": 0.1
   }
 }

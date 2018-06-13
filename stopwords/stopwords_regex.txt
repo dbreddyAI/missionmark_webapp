@@ -1,3 +1,3 @@
 \bcontractor shall [a-z]+ all ([a-z ]+, )+[a-z ]+,* and [a-z]+\b
-\bFort [A-Z][a-z]+( [A-Z][a-z]+)*,\b
+\bFort [A-Z][a-z]+( [A-Z][a-z]+)*\b
 (BACKGROUND|Background\:)[\s\S]+(?=(Requirements\:|REQUIREMENTS|Summary\:|SUMMARY))

@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <link href="static/style.css" rel="stylesheet" title="Default Style">
-    <title>Topic {{ topic_i }}</title>
+    <title>Topic {{ topic_i }}: {{ topic["label"] }}</title>
 </head>
 <body>
 
-    <h1>Topic {{ topic_i }}</h1>
+    <h1>Topic {{ topic_i }}: {{ topic["label"] }}</h1>
 
     {% if topic_i > 0 %}
         <a href="topic.html?topic={{ topic_i - 1 }}">&lt;- Previous Topic</a>

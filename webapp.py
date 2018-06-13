@@ -13,6 +13,9 @@ import numpy as np
 from summarize import summarize_doc_nmf
 from corpus import Corpus
 import globals as g
+import re
+regex = re.compile(r"(BACKGROUND|Background\:)[\s\S]+(?=(Requirements\:|REQUIREMENTS|Summary\:|SUMMARY))")
+
 
 app = Flask(__name__)
 app.secret_key = os.urandom(24)
@@ -61,7 +64,7 @@ def naics_descriptions(doc_ids):
 @app.route("/index.html", methods=["GET"])
 def index():
 
-    topic_i = int(request.args["topic"]) if "topic" in request.args else 0
+    topic_i = int(request.args["topic"]) if "topic" in request.args else 1
     topic_i_str = str(topic_i)
     topic_label = topics[topic_i_str]["label"]
     topic_threshold = topics[topic_i_str]["threshold"]
@@ -70,9 +73,10 @@ def index():
     topic_docs_normalized = W_normalized[:, topic_i]
 
     top_10_docs_i = np.argsort(topic_docs)[::-1][:10]
-    top_10_docs = corpus.get_docs(top_10_docs_i)
+    # top_10_docs = [doc.replace("\n", "<br />") for doc in corpus.get_docs(top_10_docs_i)]
+    top_10_docs = [regex.sub(" ", doc) for doc in corpus.get_docs(top_10_docs_i)]
     top_10_doc_ids = corpus.doc_ids[top_10_docs_i]
-    top_10_docs_nmf_summaries = [summarize_doc_nmf(doc, vectorizer, nmf, topic_i, 4) for doc in top_10_docs]
+    top_10_docs_nmf_summaries = [summarize_doc_nmf(doc, vectorizer, nmf, topic_i, 5) for doc in top_10_docs]
     top_10_docs_descriptions = naics_descriptions(top_10_doc_ids)
 
 
