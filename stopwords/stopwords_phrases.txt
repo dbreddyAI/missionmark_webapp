@@ -3045,7 +3045,7 @@ Sensitive Compartmented Information Facility
 Squadron Commander
 Supreme Court of the United States
 Senior Chief Petty Officer
-"Status Destroyed" or "Salty Dog".
+"Status Destroyed" or "Salty Dog"
 Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff
 Sea, Air and Land
 Survival, Evasion, Resistance and Escape
@@ -3478,24 +3478,24 @@ Joint Standoff Weapon
 Joint Specialized Undergraduate Pilot Training
 Joint Worldwide Intelligence Communications System
 Keep It Simple Stupid
-Low Altitude Parachute Extraction System.
-Low Altitude Tactical Navigation.
-Logistics Compliance Assessment Program.
-Language Enabled Airman Program.
-Logistics Group.
-Laser-Guided Bomb.
-Lead In Fighter Training.
-Limiting Factor.
+Low Altitude Parachute Extraction System
+Low Altitude Tactical Navigation
+Logistics Compliance Assessment Program
+Language Enabled Airman Program
+Logistics Group
+Laser-Guided Bomb
+Lead In Fighter Training
+Limiting Factor
 Land Mobile Radio
-Letter of Admonishment.
-Letter of Appreciation.
-Law of Armed Conflict.
-Letter of Counseling.
+Letter of Admonishment
+Letter of Appreciation
+Law of Armed Conflict
+Letter of Counseling
 Logistics NCOIC
-Letter of Reprimand.
-Low Altitude Training.
-Logistics Readiness Squadron.
-Leave Without Pay.
+Letter of Reprimand
+Low Altitude Training
+Logistics Readiness Squadron
+Leave Without Pay
 Military Airlift Command
 Mobility Air Force
 Major Command
@@ -3549,7 +3549,7 @@ Night Vision Goggles
 New Useless Bitch
 Occupational Analysis
 Outstanding Airman
-Officer Awaiting Pilot Training.
+Officer Awaiting Pilot Training
 Occupational Analysis Report
 Outstanding Airman of the Year
 Outstanding Airman of the Year Award
@@ -3919,7 +3919,7 @@ In Case Of
 Industrial Hygiene Officer
 Intermediate Maintenance Facility
 Individual Material Readiness List
-Irish Pennant - A loose thread of a Naval or Marine uniform.
+Irish Pennant - A loose thread of a Naval or Marine uniform
 In Reference To
 Information Technology Submarines
 Judge Advocate General's Corps, U.S. Navy

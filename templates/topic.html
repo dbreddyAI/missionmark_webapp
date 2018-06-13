@@ -3,15 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <link href="static/style.css" rel="stylesheet" title="Default Style">
-    <title>{{ topic["label"] }}</title>
+    <title>Topic {{ topic_i }}</title>
 </head>
 <body>
 
+    <h1>Topic {{ topic_i }}</h1>
+
     {% if topic_i > 0 %}
-        <a href="topic.html?topic={{ topic_i - 1 }}">Previous</a>
+        <a href="topic.html?topic={{ topic_i - 1 }}">&lt;- Previous Topic</a>
     {% endif %}
     {% if topic_i < 42 %}
-        <a href="topic.html?topic={{ topic_i + 1 }}">Next</a>
+        <a href="topic.html?topic={{ topic_i + 1 }}">Next Topic -&gt;</a>
     {% endif %}
 
     <br />
@@ -23,10 +25,13 @@
     <br />
     <br />
 
+    <h2>Top 10 most relevant documents</h2>
+
     <table>
         <thead>
             <tr>
                 <th>Document ID</th>
+                <th>naics_description</th>
                 <th>Summary</th>
             </tr>
         </thead>
@@ -34,7 +39,8 @@
             {% for summary in summaries %}
                 <tr>
                     <td>{{ summary[0] }}</td>
-                    <td>{% autoescape false %}{{ summary[1] }}{% endautoescape %}</td>
+                    <td>{{ summary[1] }}</td>
+                    <td>{% autoescape false %}{{ summary[2] }}{% endautoescape %}</td>
                 </tr>
             {% endfor %}
         </tbody>

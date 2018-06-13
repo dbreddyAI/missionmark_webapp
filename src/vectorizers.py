@@ -448,9 +448,10 @@ def get_stopphrases():
     with open("stopwords/stopwords_regex.txt", "r") as f:
         stop_phrases.update([line.lower().strip() for line in f if len(line) > 3])
 
-    return re.compile("|".join(stop_phrases))
+    return re.compile("|".join(stop_phrases), re.DOTALL)
 
 
+_regex_split = re.compile(r"[^a-z]+")
 def tokenize(text):
     """
     Tokenizes a document to be converted to a TF-IDF vector.
@@ -459,7 +460,7 @@ def tokenize(text):
     """
     global _stemmer, _stop_phrases
     text = _stop_phrases.sub(" ", text)
-    result = [_stemmer.stem(token) for token in re.split(r"[^a-z]+", text) if len(token) > 3]
+    result = [_stemmer.stem(token) for token in _regex_split.split(text) if len(token) > 3]
     return result
 
 

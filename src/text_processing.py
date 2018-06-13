@@ -36,4 +36,3 @@ def _tag_visible(element):
     if isinstance(element, Comment):
         return False
     return True
-
