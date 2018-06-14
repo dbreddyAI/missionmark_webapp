@@ -4,19 +4,19 @@
     "threshold": 0.1
   },
   "1": {
-    "label": "Building Repair, Renovation, and Maintenance (construction heavy)",
+    "label": "Design/Build Construction Jobs",
     "threshold": 0.1
   },
   "2": {
-    "label": "Mental Health and Substance Abuse Outpatient Treatment",
+    "label": "Mental Health and Substance Abuse Counseling",
     "threshold": 0.1
   },
   "3": {
-    "label": "Ship, Submarine, and Sea Craft",
+    "label": "Software Development",
     "threshold": 0.1
   },
   "4": {
-    "label": "Construction Projects",
+    "label": "Maintenance and Repair (ALL types)",
     "threshold": 0.1
   },
   "5": {
@@ -24,7 +24,7 @@
     "threshold": 0.1
   },
   "6": {
-    "label": "Veterans Health Clinics",
+    "label": "Health Clinic Services",
     "threshold": 0.1
   },
   "7": {
@@ -32,47 +32,47 @@
     "threshold": 0.1
   },
   "8": {
-    "label": "Program Managements and Planning",
+    "label": "Strategic Planning and Analysis",
     "threshold": 0.1
   },
   "9": {
-    "label": "Waste Disposal",
+    "label": "Waste Disposal/Removal",
     "threshold": 0.1
   },
   "10": {
-    "label": "Landscaping and Grounds Maintenance",
+    "label": "Cemetery Groundskeeping",
     "threshold": 0.1
   },
   "11": {
-    "label": "Business Solutions",
-    "threshold": 0.1
-  },
-  "12": {
     "label": "Security Guard Services",
     "threshold": 0.1
   },
+  "12": {
+    "label": "Business Solutions",
+    "threshold": 0.1
+  },
   "13": {
-    "label": "Building Mechanical Systems Maintenance",
+    "label": "Federally Owned Buildings",
     "threshold": 0.1
   },
   "14": {
-    "label": "Anything involving maintenance and repair (all types: facility, computer, mechanical, everything)",
+    "label": "Scientific Research and Laboratory Services",
     "threshold": 0.1
   },
   "15": {
-    "label": "Comprehensive Medical Services",
-    "threshold": 0.1
-  },
-  "16": {
-    "label": "Training and Instruction",
-    "threshold": 0.1
-  },
-  "17": {
     "label": "Homeless Veteran Services",
     "threshold": 0.1
   },
+  "16": {
+    "label": "Training, Instruction, and Simulations",
+    "threshold": 0.1
+  },
+  "17": {
+    "label": "Comprehensive Medical Services",
+    "threshold": 0.1
+  },
   "18": {
-    "label": "Scientific Research and Laboratory Work",
+    "label": "Installation, Replacement, Upgrading (ALL types)",
     "threshold": 0.1
   },
   "19": {
@@ -80,31 +80,31 @@
     "threshold": 0.1
   },
   "20": {
-    "label": "Asset/Inventory Management",
+    "label": "\"Defense\" keyword (renovations in Richmond, VA)",
     "threshold": 0.1
   },
   "21": {
-    "label": "Computer Systems Engineering",
+    "label": "Environmental Support",
     "threshold": 0.1
   },
   "22": {
-    "label": "Defense Systems (very broad)",
+    "label": "(Architectural) Engineering Design, Study, and Surveys",
     "threshold": 0.1
   },
   "23": {
-    "label": "Custodial Services",
+    "label": "Janitorial Services",
     "threshold": 0.1
   },
   "24": {
-    "label": "Towing and Vehicle Impounding",
+    "label": "Aviation",
     "threshold": 0.1
   },
   "25": {
-    "label": "Transportation Services",
+    "label": "Financial Services",
     "threshold": 0.1
   },
   "26": {
-    "label": "Simulation and Analysis",
+    "label": "Transportation Services",
     "threshold": 0.1
   },
   "27": {
@@ -112,39 +112,39 @@
     "threshold": 0.1
   },
   "28": {
-    "label": "Logistics Support",
+    "label": "Landscaping and Groundskeeping",
     "threshold": 0.1
   },
   "29": {
-    "label": "Keyword \"Fort\" (probably a junk topic)",
+    "label": "Program Management and Project Support Services",
     "threshold": 0.1
   },
   "30": {
-    "label": "Aviation Services",
+    "label": "Military Operations",
     "threshold": 0.1
   },
   "31": {
-    "label": "Career, Training, and Education Services",
+    "label": "Concrete and Pavement Services",
     "threshold": 0.1
   },
   "32": {
-    "label": "Environmental Services",
+    "label": "Logistics Support",
     "threshold": 0.1
   },
   "33": {
-    "label": "Military Operations (very broad)",
+    "label": "Engineering (non-Architectural)",
     "threshold": 0.1
   },
   "34": {
-    "label": "Keyword \"Center\" (probably a junk topic)",
+    "label": "Career, Employment, and Education Services",
     "threshold": 0.1
   },
   "35": {
-    "label": "Software Development",
+    "label": "Building Utilities",
     "threshold": 0.1
   },
   "36": {
-    "label": "Cyber Security",
+    "label": "Custodial Services",
     "threshold": 0.1
   },
   "37": {
@@ -152,19 +152,7 @@
     "threshold": 0.1
   },
   "38": {
-    "label": "Cemetery Grounds Maintenance",
-    "threshold": 0.1
-  },
-  "39": {
-    "label": "Janitorial Services",
-    "threshold": 0.1
-  },
-  "40": {
-    "label": "Court Proceeding Transcription",
-    "threshold": 0.1
-  },
-  "41": {
-    "label": "Financial Management and Reporting",
+    "label": "Court Proceeding Transcribing",
     "threshold": 0.1
   }
 }

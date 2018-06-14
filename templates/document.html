@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="static/style.css" rel="stylesheet" title="Default Style">
+    <title>Document {{ doc_id }}</title>
+</head>
+<body>
+
+    <a href="index.html">Home</a>
+
+    {% include "document_form.html" %}
+
+    <h1>Document {{ doc_id }}</h1>
+
+    <p>
+        Here we can see how this document relates to each topic.  It will likely relate to multiple topics on varying
+        levels.  The relevancies are displayed as percentages, but this does not necessarily represent a strength,
+        probability, or anything of the sort.  What does matter is which are the strongest in relation to the others.
+        They have been highlighted in green based on their strength relative to this topic.  <strong>Using this unique
+        combination of relevant topics and their respective strengths, it is possible to find every other document with
+        a similar combination of topic relevancies.</strong>
+    </p>
+
+    <h2>Full Text:</h2>
+    <textarea rows="25" cols="200">{{ doc }}</textarea>
+    <br />
+    <br />
+
+    <h2>Topic Relevancies</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Topic ID</th>
+                <th>Topic Label</th>
+                <th>Relevancy</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for k, v in topics.items() %}
+                <tr>
+                    <td>{{ k }}</td>
+                    <td>{{ v["label"] }}</td>
+                    <td style="background-color: rgba(0, 125, 0, {{ alphas[int(k)] }})">{{ round(doc_topics[int(k)], 2) }}%</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+</body>
+</html>

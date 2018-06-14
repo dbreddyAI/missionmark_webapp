@@ -20,6 +20,10 @@ regex = re.compile(r"(BACKGROUND|Background\:)[\s\S]+(?=(Requirements\:|REQUIREM
 app = Flask(__name__)
 app.secret_key = os.urandom(24)
 app.add_template_global(str, "str")
+app.add_template_global(int, "int")
+app.add_template_global(round, "round")
+
+
 
 
 topics = json.load(open("data/json/topics.json"))
@@ -59,13 +63,19 @@ def naics_descriptions(doc_ids):
 
 
 
-@app.route("/topic.html", methods=["GET"])
 @app.route("/", methods=["GET"])
 @app.route("/index.html", methods=["GET"])
 def index():
 
-    topic_i = int(request.args["topic"]) if "topic" in request.args else 1
-    topic_i_str = str(topic_i)
+    return render_template("index.html", topics=topics)
+
+
+
+@app.route("/topic.html", methods=["GET"])
+def topic():
+
+    topic_i_str = request.args["topic"] if "topic" in request.args else 0
+    topic_i = int(topic_i_str)
     topic_label = topics[topic_i_str]["label"]
     topic_threshold = topics[topic_i_str]["threshold"]
 
@@ -81,6 +91,20 @@ def index():
 
 
     return render_template("topic.html", topic_i=topic_i, topic=topics[topic_i_str], summaries=zip(top_10_doc_ids, top_10_docs_descriptions, top_10_docs_nmf_summaries))
+
+
+
+@app.route("/document.html", methods=["GET"])
+def document():
+
+    doc_id = int(request.args["doc_id"]) if "doc_id" in request.args else 0
+    doc_i = np.where(corpus.doc_ids == doc_id)[0]
+    doc = corpus.get_doc_by_id(doc_id)
+    doc_topics = W_normalized[doc_i][0] * 100
+    alphas = doc_topics / doc_topics.max()
+    naics_description = naics_descriptions([doc_id])[0]
+
+    return render_template("document.html", doc_id=doc_id, doc=doc, doc_topics=doc_topics, alphas=alphas, naics_description=naics_description, topics=topics)
 
 
 

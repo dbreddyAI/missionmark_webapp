@@ -108,10 +108,14 @@ class Corpus():
 
 
     def get_doc(self, doc_i):
+        doc_id = self._doc_ids[doc_i]
+        return self.get_doc_by_id(doc_id)
+
+
+    def get_doc_by_id(self, doc_id):
 
         g.debug(f"Retrieving doc {doc_id}...", 2)
 
-        doc_id = self._doc_ids[doc_i]
         query = f"""
                     SELECT {self._text_column}
                     FROM {self._table_name}

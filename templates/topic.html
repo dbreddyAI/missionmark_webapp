@@ -7,12 +7,14 @@
 </head>
 <body>
 
+    <a href="index.html">Home</a>
+
     <h1>Topic {{ topic_i }}: {{ topic["label"] }}</h1>
 
     {% if topic_i > 0 %}
         <a href="topic.html?topic={{ topic_i - 1 }}">&lt;- Previous Topic</a>
     {% endif %}
-    {% if topic_i < 42 %}
+    {% if topic_i < 38 %}
         <a href="topic.html?topic={{ topic_i + 1 }}">Next Topic -&gt;</a>
     {% endif %}
 
@@ -38,7 +40,7 @@
         <tbody>
             {% for summary in summaries %}
                 <tr>
-                    <td>{{ summary[0] }}</td>
+                    <td><a href="document.html?doc_id={{ summary[0] }}">{{ summary[0] }}</a></td>
                     <td>{{ summary[1] }}</td>
                     <td>{% autoescape false %}{{ summary[2] }}{% endautoescape %}</td>
                 </tr>
